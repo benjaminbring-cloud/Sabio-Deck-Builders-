@@ -1,108 +1,102 @@
 {
   "client": "Merck",
-  "fileTitle": "Sabio x Merck: Deals Ready for Omnicom",
+  "fileTitle": "Sabio x Merck: Addressable TV Before Broadcast Gets Harder",
+  "footer": "Proactive point of view for Omnicom",
   "slides": [
     {
       "type": "cover",
-      "title": "Deals ready for both Merck teams",
-      "subtitle": "App Science® audiences for Merck Animal Health and Merck Human Health, packaged as Magnite PMP deals on Omnicom seat IDs, with a four-week flea and tick test to prove it.",
-      "meta": "Proactive recommendation | Prepared for Omnicom Media | October 2026 | US only",
-      "names": "Margarita Leonard · Scott Cofsky · Katie Sullivan · Raman Khanna · Greg Pratt\nBen Bring · Janis Ciuffini · Shae Mackey · Michael McLaughlin"
+      "title": "Addressable TV for Merck, ready before broadcast gets harder",
+      "subtitle": "FDA is moving to end the rule that makes 60-second drug spots possible. App Science® finds the pet owners, clinicians and care-managing homes Merck needs, on CTV, through Omnicom's own seats.",
+      "meta": "Proactive point of view | Prepared for Omnicom Media | October 2026 | US only",
+      "names": "Margarita Leonard · Scott Cofsky · Katie Sullivan · Raman Khanna · Greg Pratt\nBen Bring · Shae Mackey · Janis Ciuffini · Michael McLaughlin",
+      "stat": {
+        "label": "Healthcare & pharma CTV spend, 2026",
+        "value": "$4.7B",
+        "unit": "+23.7% year over year",
+        "body": "Pharma digital spend passes linear TV for the first time this year. The budget is already moving. The question is where it lands. [3, 4]"
+      }
     },
     {
-      "type": "contents",
+      "type": "agenda",
       "items": [
-        { "num": "", "title": "Introduction", "desc": "What we heard from Omnicom and Merck, answered on one page", "pages": "p. 3" },
-        { "num": "01", "title": "The audience", "desc": "Signals for each Merck team, the signal ladder, the app list, three core audiences", "pages": "pp. 5 – 8" },
-        { "num": "02", "title": "Activation and scale", "desc": "How reach builds, how the deals run through Omnicom, the path from screen to vet", "pages": "pp. 10 – 12" },
-        { "num": "03", "title": "Measurement and privacy", "desc": "How we read it, proof, and the pharma guardrails we hold ourselves to", "pages": "pp. 14 – 16" },
-        { "num": "04", "title": "Plan and next steps", "desc": "A four-week Animal Health test and what we need to switch the deals on", "pages": "pp. 18 – 19" }
-      ]
-    },
-    {
-      "type": "table",
-      "title": "What we heard, and what we'd do",
-      "kicker": "Built from our Omnicom and Merck conversations this year · Nothing here needs a brief to start",
-      "headers": ["What we heard", "What we propose", "Page"],
-      "rows": [
-        ["Deals, not direct activation", "Magnite PMP deals set up on Omnicom's seat IDs, so account teams activate them like any other deal.", "11"],
-        ["Tie deals to a Merck team", "Each deal is named and built for Merck Animal Health or Merck Human Health, so it maps to a real team and budget.", "8"],
-        ["Animal is easier to test", "A four-week flea and tick test for Animal Health with a 10% holdout, timed to fall adult-tick season.", "18"],
-        ["Strategy and performance want use cases", "Three core audiences built from app ownership, plus an App Science® insights readout at the end.", "5 – 8"],
-        ["Pharma needs guardrails", "HCP and pet-owner signals only. No condition-level targeting unless Merck MLR signs off.", "16"]
-      ]
-    },
-    {
-      "type": "divider",
-      "num": "01",
-      "title": "The audience",
-      "desc": "Pet owners in tick country, the clinicians who prescribe, and the households who manage care.",
-      "pages": "Pages 5 – 8 · Signals, the signal ladder, the app list, core audiences"
-    },
-    {
-      "type": "cards",
-      "title": "Four app signals for Merck",
-      "kicker": "Which apps on a phone best identify the household behind the TV",
-      "footnote": "Signals come from apps opened in the last 30 days, matched to the CTV on the same home IP. Source: App Science® household graph methodology, 2026.",
-      "cards": [
-        { "label": "Pet care", "head": "Chewy, Rover, Petco, PetSmart, BarkBox", "body": "A dog or cat lives here. The base signal for every Animal Health deal." },
-        { "label": "Vet & pet health", "head": "Vetster, Pawp, clinic and pet-insurance apps", "body": "The home already pays attention to pet health. The strongest flea and tick prospects." },
-        { "label": "Clinician tools", "head": "Doximity, Epocrates, Medscape, UpToDate", "body": "Someone in the home practises medicine. The precision signal for Human Health HCP deals." },
-        { "label": "Care managers", "head": "MyChart, GoodRx, CVS, Medisafe", "body": "A household that manages appointments and prescriptions. Scale for Human Health awareness." }
-      ]
-    },
-    {
-      "type": "ladder",
-      "title": "From pet-curious to pet care on the phone",
-      "kicker": "The signal ladder · Each step down is a stronger reason to talk flea and tick",
-      "footnote": "Household counts are illustrative until the build. [CONFIRM before sending] Every segment is built to the brief from the 2026 App Science® taxonomy.",
-      "steps": [
-        { "num": "01", "label": "Category", "head": "Animal lover", "sub": "Modeled from content" },
-        { "num": "02", "label": "Segment", "head": "Probable pet owner", "sub": "Modeled from purchase data" },
-        { "num": "03", "label": "Behavior", "head": "Uses a pet-care app regularly", "sub": "Opened in the last 30 days" },
-        { "num": "04", "label": "On the device", "head": "Pet care + vet apps in high tick-risk states", "sub": "Observed on the phone, matched to the TV" }
+        "What's happening at Merck right now",
+        "The opening: audiences, not airtime",
+        "Who Sabio is, and what App Science® does",
+        "Three audiences, three deals on Omnicom seats",
+        "How it runs, and how we read it",
+        "Where we go next"
       ],
-      "stats": [
-        { "value": "35MM", "label": "homes with a pet-care app in use [CONFIRM]" },
-        { "value": "9MM", "label": "homes with pet care and vet apps in tick-risk states [CONFIRM]" }
+      "note": "The audiences and the Animal Health test are what carry the meeting. Everything else is there if you need it."
+    },
+    {
+      "type": "news",
+      "title": "What's happening at Merck right now",
+      "kicker": "Four signals from the last twelve months · Numbered sources on page 15",
+      "items": [
+        {
+          "date": "Sep 2025 → Dec 2026",
+          "head": "FDA is going after the 60-second drug spot",
+          "body": "About 100 cease-and-desist letters since Sep 2025. A rule to end \"adequate provision\" for broadcast ads is on FDA's 2026 agenda, with a proposal expected in December. [1, 2]",
+          "means": "Broadcast spots get longer, riskier and pricier. Tightly targeted CTV becomes the safer place for reach."
+        },
+        {
+          "date": "Mar 18, 2026",
+          "head": "Bravecto Quantum's label adds two more ticks",
+          "body": "The only 12-month flea and tick injection, given by a vet, now covers Asian longhorned and Gulf Coast ticks. The longhorned tick is confirmed in 19 states. [5, 6]",
+          "means": "Every sale starts with a vet visit. That's a household we can find and move before winter."
+        },
+        {
+          "date": "Sep 18, 2026",
+          "head": "Keytruda Qlex approved in Japan, CHMP backs Keytruda + Padcev",
+          "body": "The Keytruda family grew 4% to $8.4B in Q2. Cipla has licensed a US Keytruda biosimilar ahead of the 2028 patent expiry. [7, 8]",
+          "means": "Every oncologist conversation about subcutaneous Keytruda counts now. HCP reach at home adds to field and endemic."
+        },
+        {
+          "date": "2H 2026",
+          "head": "Enflonsia heads into its second RSV season",
+          "body": "$3MM in 1H sales on heavy market inventory, with shipments expected to rise in 2H. FDA's second-season decision is due Mar 22, 2027. [9]",
+          "means": "Pediatric practices decide in the next 90 days. A precise pediatric HCP deal fits that window."
+        }
       ]
     },
     {
-      "type": "lists",
-      "title": "The apps we can build from",
-      "kicker": "Ownership of each app is a targeting input, alone or combined with location",
-      "footnote": "Illustrative US mobile devices per app. Final counts come from the build. [CONFIRM before sending] Source: Sabio healthcare and pharma targeting builds, 2025 – 2026.",
-      "columns": [
-        { "head": "Animal Health", "sub": "Pet owners and pet-health engaged homes", "items": [["Chewy", "18MM"], ["Rover", "6MM"], ["Petco", "9MM"], ["PetSmart", "8MM"], ["Vetster", "0.8MM"], ["Pawp", "0.5MM"]] },
-        { "head": "Human Health · HCP", "sub": "Clinical reference and professional network apps", "items": [["Doximity", "1.4MM"], ["Epocrates", "0.9MM"], ["Medscape", "1.1MM"], ["UpToDate", "0.7MM"], ["AMION", "0.4MM"]] },
-        { "head": "Human Health · Care", "sub": "Households managing care and prescriptions", "items": [["MyChart", "30MM"], ["GoodRx", "14MM"], ["CVS Health", "22MM"], ["Medisafe", "3MM"], ["Healow", "4MM"]] }
+      "type": "opening",
+      "title": "The opening: audiences, not airtime",
+      "kicker": "Why the next Merck reach dollar should buy a household, not a daypart",
+      "stat": "~100",
+      "statLabel": "FDA cease-and-desist letters on pharma ads since September 2025, with most untitled letters aimed at DTC television",
+      "statSource": "Sources 1, 2",
+      "headline": "We think the next Merck reach dollar goes to audiences, not airtime.",
+      "points": [
+        { "head": "The shift", "body": "Pharma digital passes linear TV in 2026, and CTV is the fastest-growing line in it. Budgets are moving whether the rule lands or not." },
+        { "head": "The gap", "body": "Much of pharma CTV still buys demographics or modeled health segments. Those are getting harder to defend with MLR teams and new state health-privacy laws." },
+        { "head": "Where Sabio fits", "body": "App Science® targets observed app ownership (pet care, clinician tools, care management), never a diagnosis. Activated as PMP deals on Omnicom's own seats." }
       ]
+    },
+    {
+      "type": "glance",
+      "title": "Sabio at a glance",
+      "kicker": "Built on our own data, tech and content since 2014",
+      "takeaway": "one partner that owns the data, the supply and the measurement, so Omnicom can run Merck deals on its own seats with nothing in between."
     },
     {
       "type": "audiences",
-      "title": "Three core audiences, three deals",
+      "title": "Three audiences, three deals",
       "kicker": "Each one is an app ecosystem, not a demographic · Sized on the final build",
-      "footnote": "Care-manager reach reflects Sabio's caretaker build for a healthcare client (2025). Other reach is illustrative until the build.",
+      "source": "Care-manager reach reflects Sabio's caretaker build for a healthcare client (2025). Other reach is illustrative until the build is run. App lists are starting points, finalized with Merck.",
       "cards": [
-        { "tag": "Animal Health · Prime", "name": "The tick-season pet home", "desc": "A dog or cat at home, pet apps in use, in a state where ticks are active this fall.", "apps": "Chewy · Rover · Petco · Vetster · Pawp", "goal": "Ask the vet about flea and tick protection", "reach": "CTV 24MM | OTT 16MM | Mobile 35MM" },
-        { "tag": "Human Health · Precision", "name": "The prescribing clinician", "desc": "Clinical reference and professional apps on the phone. Small, and very precise.", "apps": "Doximity · Epocrates · Medscape · UpToDate", "goal": "HCP awareness at home, on the big screen", "reach": "CTV 1.2MM | OTT 0.9MM | Mobile 2.1MM" },
-        { "tag": "Human Health · Scale", "name": "The care-manager household", "desc": "Manages appointments and prescriptions for themselves or someone they care for.", "apps": "MyChart · GoodRx · CVS · Medisafe · Healow", "goal": "Brand awareness and trust at scale", "reach": "CTV 18MM | OTT 30MM | Mobile 46MM" }
+        { "tag": "Animal Health · Prime", "name": "The tick-country dog home", "desc": "A dog at home, pet apps in use, in one of the 19 states where the longhorned tick is confirmed.", "apps": "Chewy · Rover · BarkBox · Petco · Vetster", "goal": "Ask the vet about a once-a-year flea & tick shot", "reach": "CTV 24MM | OTT 16MM | Mobile 35MM" },
+        { "tag": "Human Health · Precision", "name": "The prescribing clinician", "desc": "Clinical reference apps on the phone: oncologists, pediatricians and the teams around them.", "apps": "Doximity · Epocrates · Medscape · UpToDate", "goal": "Keytruda Qlex and Enflonsia awareness, at home", "reach": "CTV 1.2MM | OTT 0.9MM | Mobile 2.1MM" },
+        { "tag": "Human Health · Scale", "name": "The care-manager home", "desc": "Manages appointments and prescriptions for themselves or someone they love.", "apps": "MyChart · GoodRx · CVS · Walgreens · Medisafe", "goal": "Unbranded awareness and trust at scale", "reach": "CTV 18MM | OTT 30MM | Mobile 46MM" }
       ]
-    },
-    {
-      "type": "divider",
-      "num": "02",
-      "title": "Activation and scale",
-      "desc": "Three deals that build to scale, run through Omnicom's own seats, with a path from the TV to the vet.",
-      "pages": "Pages 10 – 12 · How reach builds, how the deals run, the path to action"
     },
     {
       "type": "reach",
       "title": "Three deals build to 37MM households",
-      "kicker": "How CTV reach grows as each Merck audience is layered in · Deduplicated",
-      "footnote": "Illustrative. Net-new counts remove homes already in an earlier audience. [CONFIRM before sending] Source: App Science® household graph methodology, 2025 – 2026.",
+      "kicker": "How CTV reach grows as each audience is layered in · Deduplicated",
+      "source": "Illustrative [CONFIRM]. Net-new counts remove homes already in an earlier audience. Source: App Science® household graph methodology, 2025 – 2026.",
       "bars": [
-        { "label": "Tick-season pet homes", "value": 24 },
+        { "label": "Tick-country dog homes", "value": 24 },
         { "label": "Prescribing clinicians", "value": 1 },
         { "label": "Care-manager homes", "value": 12 }
       ],
@@ -114,12 +108,12 @@
       "type": "activation",
       "title": "Deals on Omnicom's own seats",
       "kicker": "App Science® runs on Sabio media · No data CPM, license or match fee",
-      "footnote": "Magnite activation access confirmed for Sabio week of 9/28; curation access expected early October. [CONFIRM seat IDs with Omnicom]",
+      "source": "Sabio's Magnite activation went live the week of Sep 28, 2026; curation access expected early October. Seat IDs to come from Omnicom's deal form.",
       "channels": [
-        { "head": "Magnite PMP", "body": "Curated deals per Merck audience, created on Omnicom's seat IDs from the deal form." },
-        { "head": "CTV", "body": "Every major TV OEM and streaming device. Non-skippable video with QR to a vet or brand page." },
-        { "head": "Mobile", "body": "In-app video and display on the same households, after CTV exposure." },
-        { "head": "Direct IO", "body": "Managed service with fixed rates and custom creative, if a team prefers it." }
+        { "head": "Magnite PMP", "body": "One curated deal per Merck audience on Omnicom's seat IDs, activated by the account teams like any other deal." },
+        { "head": "CTV", "body": "Every major TV OEM and streaming device. Non-skippable video, with QR to a vet finder or brand page." },
+        { "head": "Mobile", "body": "In-app video and display on the same households after CTV exposure, one tap from the page." },
+        { "head": "Verification", "body": "App Science® Pixel Verification on the deals, so spend is checked against real, verified households." }
       ],
       "getsHead": "What Merck gets",
       "gets": [
@@ -127,96 +121,66 @@
         "Audience included in the media CPM",
         "DoubleVerify on all supply, TAG registered",
         "Household frequency managed across screens",
-        "App Science® insights readout on who converted"
+        "An App Science® readout on who responded"
       ]
     },
     {
       "type": "flow",
       "title": "From the screen to the vet",
       "kicker": "One household, three moments · The TV builds the idea, the phone closes it",
-      "footnote": "Benchmark: CTV video with QR code, 96% VCR. Flow shown for the Animal Health test. Human Health follows the same path to a Merck HCP or brand page.",
+      "benchmark": "Benchmark: CTV video with QR code, 96% VCR. Human Health follows the same path to a Merck HCP or unbranded page.",
       "steps": [
-        { "tag": "Prime", "head": "CTV video with QR code", "body": "Tick-season pet homes see flea and tick messaging on the big screen. The QR code goes to a vet finder or the brand page." },
-        { "tag": "Prove", "head": "Mobile video and display", "body": "The same households are retargeted on their phones after CTV exposure, one tap from the page." },
-        { "tag": "Act", "head": "Ask the vet", "body": "The page drives a vet visit or a question at the next appointment. We read site visits and, where Merck allows, vet visits by household." }
+        { "tag": "Prime · CTV", "head": "Tick season on the big screen", "body": "Tick-country dog homes see Bravecto Quantum messaging on CTV. The QR code goes to a vet finder or the brand page." },
+        { "tag": "Prove · Mobile", "head": "The same home, on the phone", "body": "The households exposed on CTV are retargeted with mobile video and display, one tap from the vet finder." },
+        { "tag": "Act · Vet visit", "head": "Book the once-a-year shot", "body": "The page drives a vet booking or a question at the next appointment. We read site visits and, where Merck allows, vet visits by household." }
       ]
-    },
-    {
-      "type": "divider",
-      "num": "03",
-      "title": "Measurement and privacy",
-      "desc": "Read against a holdout, proven on live campaigns, and built inside pharma guardrails.",
-      "pages": "Pages 14 – 16 · Attribution, proof, data considerations"
     },
     {
       "type": "paths",
       "title": "Two ways to read the test",
-      "kicker": "Action and awareness, read against the same holdout",
-      "footnote": "Source: Sabio Performance attribution and App Science® brand-lift materials, 2025 – 2026. Crossix available as an alternative for pharma measurement.",
+      "kicker": "Action and awareness, read against the same 10% holdout",
+      "source": "Source: Sabio Performance attribution and App Science® brand-lift materials, 2025 – 2026. Crossix available as an alternative for pharma measurement.",
       "paths": [
-        { "head": "Action · CTV view-through and mobile click-through", "steps": ["Ad plays on the TV or phone. Household IP or device ID is logged", "Someone in the home visits the vet finder or brand page", "Sabio pixel records the visit, with no personal data passed", "Visits matched to exposure and compared with the 10% holdout"] },
-        { "head": "Awareness · App Science® brand-lift study", "steps": ["Exposed households are connected to the household graph", "Short survey served to exposed homes and a matched control", "Awareness and intent to ask the vet, by audience", "Lift read by audience and demo, feeding the next flight"] }
+        { "head": "Action · CTV view-through and mobile click-through", "steps": ["Ad plays on the TV or phone. Household IP or device ID is logged", "Someone in the home visits the vet finder or brand page", "The Sabio pixel records the visit, with no personal data passed", "Visits matched to exposure and compared with the holdout"] },
+        { "head": "Awareness · App Science® brand-lift study", "steps": ["Exposed households are connected to the household graph", "A short survey goes to exposed homes and a matched control", "Awareness and intent to ask the vet, by audience", "Lift read by audience and demo, feeding the next flight"] }
       ]
     },
     {
       "type": "proof",
-      "title": "Health audiences, proven live",
-      "kicker": "Anonymized readouts and cleared case studies",
-      "footnote": "Sources: Sabio public health and government health case studies; App Science® QSR brand-lift study, Q3 2025. Client names withheld.",
+      "title": "Proven live, including inside Omnicom",
+      "kicker": "Cleared case studies and anonymized readouts",
+      "source": "Sources: Sabio x Kinesso partnership review, Sep 2026; Sabio public health and government health case studies. Kinesso joined Omnicom with IPG.",
       "stats": [
+        { "value": "99%", "label": "CTV video completion rate", "context": "Levi's through Kinesso, now part of Omnicom, built on App Science® audiences" },
         { "value": "+250%", "label": "QR scan rate over benchmark", "context": "Government health agency, CTV with QR code plus mobile" },
-        { "value": "+30%", "label": "Mobile CTR over benchmark", "context": "Public health agency, CTV, mobile video and interstitial" },
-        { "value": "+249%", "label": "App download intent lift", "context": "National QSR brand, App Science® brand-lift, 99% confidence" }
+        { "value": "+30%", "label": "Mobile CTR over benchmark", "context": "Public health agency, CTV, mobile video and interstitial" }
       ],
-      "sideHead": "Why this, why now",
-      "side": "Adult ticks are active through the fall, so pet owners are in market right now.\n\nWe think the fastest way to prove the graph to Merck is a clean Animal Health read. Then the Human Health deals follow on the same seats."
+      "sideHead": "Why now",
+      "side": "Adult ticks stay active into November, so dog owners are in market right now.\n\nFDA's proposal is expected in December. Merck can have addressable deals running and read before it lands.\n\nRSV season decisions happen this quarter."
     },
     {
       "type": "grid",
       "title": "Pharma guardrails",
       "kicker": "What we see, what we don't, and what we won't do",
-      "footnote": "Source: Sabio Internal FAQ and CTV FAQ, 2026. Data management documentation available on request. All Human Health targeting subject to Merck MLR review.",
+      "source": "Source: Sabio Internal FAQ and CTV FAQ, 2026. All Human Health targeting subject to Merck MLR review before launch.",
       "cells": [
         { "head": "What we observe", "body": "Which apps are installed and how recently they're used. Never what anyone reads or types inside a health app." },
-        { "head": "No condition inference", "body": "We don't build audiences that imply a person's diagnosis. HCP and care-manager signals only, unless Merck MLR approves more." },
+        { "head": "No condition inference", "body": "We don't build audiences that imply a diagnosis. HCP and care-manager signals only, unless Merck MLR approves more." },
+        { "head": "State health-data laws", "body": "Built to sit outside consumer health data as defined by laws like Washington's My Health My Data Act. [CONFIRM with Merck legal]" },
         { "head": "What leaves Sabio", "body": "No device IDs. Reporting is aggregated by age, demo and geo. CCPA compliant, and every opt-out is honored." },
-        { "head": "iOS signal", "body": "Apple's restrictions mean most app data comes from Android. We show the iOS share on each build." },
-        { "head": "Merck 1P", "body": "HCP lists or NPI files can be layered in through a clean room, on Merck's terms." },
+        { "head": "Merck 1P", "body": "HCP target lists or NPI files can be layered in through a clean room, on Merck's terms." },
         { "head": "Brand safety", "body": "DoubleVerify on all supply, TAG registered, US only. Block and allow lists accepted." }
       ]
     },
     {
-      "type": "divider",
-      "num": "04",
-      "title": "Plan and next steps",
-      "desc": "A four-week Animal Health test with a holdout, and three things we need to switch the deals on.",
-      "pages": "Pages 18 – 19 · Test design, next steps"
-    },
-    {
-      "type": "plan",
-      "title": "Four weeks live, one clean read",
-      "kicker": "A simple US test to start · Illustrative, budget and flight to be set with Omnicom",
-      "footnote": "Test sized and priced on request from the Sabio rate card. No other client's pricing is referenced here.",
-      "phases": [
-        { "tag": "Wk 1", "head": "Set up", "body": "Deals created on Omnicom seat IDs. Audiences built and sized. Pixel and holdout in place." },
-        { "tag": "Weeks 2 – 5 · Live", "head": "Live", "body": "CTV with QR, mobile retargeting, weekly delivery and visit reporting to the account team." },
-        { "tag": "Wk 6", "head": "Readout", "body": "Visits and lift by audience against the holdout, plus App Science® insights on who responded." }
-      ],
-      "split": [90, 10],
-      "splitCaption": "10% of matched households see nothing, so visits and lift are read against no exposure.",
-      "asks": [
-        { "head": "The seats.", "body": "The deal form and Omnicom seat IDs, as Marga offered." },
-        { "head": "The owner.", "body": "Katie Sullivan or the Animal Health lead to own the test." },
-        { "head": "The date.", "body": "A start date. Sized deals within 48 hours." }
-      ]
-    },
-    {
-      "type": "nextsteps",
-      "title": "Next steps",
-      "items": [
-        { "tag": "The seats", "head": "Send the deal form and seat IDs.", "body": "We'll set up one Magnite deal per Merck audience, named so each team can find its own." },
-        { "tag": "The test", "head": "Pick an owner for the Animal Health read.", "body": "Katie Sullivan, or whoever Scott suggests. We'll size it and share a one-page test plan." },
-        { "tag": "The intros", "head": "Human Health, when it's right.", "body": "Raman Khanna and Greg Pratt, plus Gwynne Rowe and Charlie Cebuhar at L-Omni. Happy to build HCP deals in advance." }
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three moves to turn the conversation into running deals",
+      "closer": "We think the Animal Health read is the fastest way to earn the Human Health conversation.",
+      "moves": [
+        { "head": "Switch on the deals", "body": "Marga sends the deal form. We set up three Magnite deals on Omnicom seat IDs, named for Animal Health, HCP and Care.", "owner": "Owner: Omnicom programmatic + Sabio · week of Oct 5" },
+        { "head": "Run the tick-season test", "body": "Four weeks for Animal Health: CTV with QR to a vet finder, mobile retargeting, 10% holdout. Read visits and lift before the season ends.", "owner": "Owner: Merck Animal Health + Sabio · Oct – Nov" },
+        { "head": "Bring in Human Health", "body": "Walk Raman Khanna and Greg Pratt, plus Gwynne Rowe and Charlie Cebuhar at L-Omni, through the HCP deal.", "owner": "Owner: Sabio + L-Omni · before the Dec rule proposal" }
       ]
     },
     {
@@ -225,6 +189,21 @@
       "names": [
         { "name": "Ben Bring", "role": "VP, Agency and Client Partnerships", "contact": "bbring@sabio.inc · 347-249-5838" },
         { "name": "Shae Mackey", "role": "VP of Sales, East", "contact": "shae@sabio.inc · 516-849-8356" }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Sep 30, 2026",
+      "items": [
+        "FDA DTC enforcement, ~100 cease-and-desist letters: Latham & Watkins, \"FDA Begins Crackdown on DTC Pharmaceutical Advertising\"; eMarketer, \"Pharma TV ads face rising FDA enforcement.\"",
+        "\"Transparency in DTC Advertising\" proposed rule (RIN 0910-AJ14), NPRM expected Dec 2026: FDA Law Blog, Jul 2026; Foley Hoag, Jul 2026; MM+M.",
+        "Healthcare & pharma CTV spend $4.69B in 2026, +23.7%: DeepIntent, \"CTV Healthcare and Pharma Advertising at the 2026 Upfronts\" (eMarketer forecast).",
+        "Pharma digital spend overtakes linear TV in 2026: CMI Media Group / MM+M, Healthcare Marketers Trend Report 2026.",
+        "Bravecto Quantum label expansion, Mar 18, 2026: Merck Animal Health newsroom; dvm360.",
+        "Asian longhorned tick confirmed in 19 states: CDC, via AgDaily and CIDRAP.",
+        "Keytruda Qlex approval in Japan and CHMP opinion on Keytruda + Padcev, Sep 18, 2026: Merck.com news releases.",
+        "Keytruda family Q2 2026 sales and Cipla/Qilu biosimilar license: 24/7 Wall St., Sep 29, 2026; ad-hoc-news, Sep 2026.",
+        "Enflonsia 1H 2026 sales and 2H outlook: Merck Form 10-Q, Q2 2026. Second-season sBLA, PDUFA Mar 22, 2027: BioPharm International."
       ]
     }
   ]

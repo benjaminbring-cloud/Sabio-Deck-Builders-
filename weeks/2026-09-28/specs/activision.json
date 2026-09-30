@@ -1,112 +1,145 @@
 {
   "client": "Activision",
-  "fileTitle": "Sabio x Activision: Reaching the Shooter Household",
+  "fileTitle": "Sabio x Activision: Win the 27 Days Before GTA VI",
+  "footer": "Proactive point of view for Omnicom",
   "slides": [
     {
       "type": "cover",
-      "title": "Reaching the shooter household on the big screen",
-      "subtitle": "App Science® audiences built from Call of Duty and rival shooter app ownership, activated on US CTV and mobile around the Q4 launch window, measured to pre-orders and installs.",
-      "meta": "Proactive recommendation | Prepared for Omnicom | October 2026 | US only",
-      "names": "Josh Mallalieu\nBen Bring · Janis Ciuffini · Shae Mackey"
+      "title": "Win the 27 days before GTA VI",
+      "subtitle": "Modern Warfare 4 launches Oct 23 at $70, with no Game Pass on day one. App Science® finds the Battlefield, Switch 2 and lapsed Call of Duty homes that now have to be sold, not unlocked, and reaches them on the TV they'll play on.",
+      "meta": "Proactive point of view | Prepared for Omnicom | October 2026 | US only",
+      "names": "Josh Mallalieu\nBen Bring · Shae Mackey · Janis Ciuffini",
+      "stat": {
+        "label": "From MW4 launch to GTA VI",
+        "value": "27",
+        "unit": "days",
+        "body": "Pre-orders unlock the campaign Oct 16. MW4 launches Oct 23. GTA VI lands Nov 19. Every player Activision wants has to be won before then. [3, 6]"
+      }
     },
     {
-      "type": "contents",
+      "type": "agenda",
       "items": [
-        { "num": "", "title": "Introduction", "desc": "Why a mobile-first graph fits a console and mobile shooter, on one page", "pages": "p. 3" },
-        { "num": "01", "title": "The audience", "desc": "Gaming signals, the signal ladder, the app list, three core audiences", "pages": "pp. 5 – 8" },
-        { "num": "02", "title": "Activation and scale", "desc": "How reach builds, where it runs, creator-led spots, the path to pre-order", "pages": "pp. 10 – 12" },
-        { "num": "03", "title": "Measurement and privacy", "desc": "Pre-orders and installs, proof, data considerations", "pages": "pp. 14 – 16" },
-        { "num": "04", "title": "Plan and next steps", "desc": "A four-week launch test and what we need to start", "pages": "pp. 18 – 19" }
-      ]
-    },
-    {
-      "type": "table",
-      "title": "Why this fits Activision",
-      "kicker": "Five questions a launch team will ask · Our short answers",
-      "headers": ["The question", "Our answer", "Page"],
-      "rows": [
-        ["Can you find real players?", "Yes. Call of Duty: Mobile and rival shooter apps are observed on the device, opened in the last 30 days. Not modeled.", "5 – 7"],
-        ["Can you conquest rivals?", "Yes. Fortnite, PUBG Mobile, Free Fire and Delta Force players are each a targetable ecosystem.", "7 – 8"],
-        ["Does it reach the TV?", "US only: 280MM mobile devices matched to 115MM CTV households on the same home IP.", "10"],
-        ["Can it drive action?", "CTV with QR to pre-order, mobile click-through to install, read by household and device.", "12 – 14"],
-        ["Anything new?", "Creator TV®, our O&O streaming channel, carries creator-led gaming spots next to the audience buy.", "11"]
-      ]
-    },
-    {
-      "type": "divider",
-      "num": "01",
-      "title": "The audience",
-      "desc": "The people already playing shooters on their phones, and the households those phones live in.",
-      "pages": "Pages 5 – 8 · Signals, the signal ladder, the app list, core audiences"
-    },
-    {
-      "type": "cards",
-      "title": "Four app signals for Activision",
-      "kicker": "Which apps on a phone best identify the gaming household behind the TV",
-      "footnote": "Signals come from apps opened in the last 30 days, matched to the CTV on the same home IP. Source: App Science® household graph methodology, 2026.",
-      "cards": [
-        { "label": "Call of Duty", "head": "Call of Duty: Mobile and the COD companion app", "body": "Already in the franchise. The easiest homes to move to the new launch." },
-        { "label": "Rival shooters", "head": "Fortnite, PUBG Mobile, Free Fire, Delta Force", "body": "Plays the genre, not yet the franchise. The conquest pool." },
-        { "label": "Platform", "head": "Xbox, PlayStation App, Game Pass, Steam", "body": "A console or PC in the home. Tells us where the pre-order will happen." },
-        { "label": "Community", "head": "Discord, Twitch, YouTube Gaming", "body": "Watches and talks gaming. Sets the creative and the creator-led angle." }
-      ]
-    },
-    {
-      "type": "ladder",
-      "title": "From gamer to shooter player in the home",
-      "kicker": "The signal ladder · Each step down is a stronger reason to pre-order",
-      "footnote": "Household counts are illustrative until the build. [CONFIRM before sending] Every segment is built to the brief from the 2026 App Science® taxonomy.",
-      "steps": [
-        { "num": "01", "label": "Category", "head": "Gaming enthusiast", "sub": "Modeled from content" },
-        { "num": "02", "label": "Segment", "head": "Console owner", "sub": "Modeled from purchase data" },
-        { "num": "03", "label": "Behavior", "head": "Plays a mobile shooter regularly", "sub": "Opened in the last 30 days" },
-        { "num": "04", "label": "On the device", "head": "Shooter app + console app on one phone", "sub": "Observed on the phone, matched to the TV" }
+        "What's happening at Activision right now",
+        "The opening: conquest and win-back, not the core",
+        "Who Sabio is, and what App Science® does",
+        "Three audiences for the launch window",
+        "How it runs, and how we read it",
+        "Where we go next"
       ],
-      "stats": [
-        { "value": "22MM", "label": "homes with a mobile shooter in use [CONFIRM]" },
-        { "value": "7MM", "label": "homes with a shooter and a console app [CONFIRM]" }
+      "note": "Twenty minutes at Adweek is enough. The audiences and the calendar are what carry it."
+    },
+    {
+      "type": "news",
+      "title": "What's happening at Activision right now",
+      "kicker": "Four signals from the last nine months · Numbered sources on page 15",
+      "items": [
+        {
+          "date": "Jan 2026",
+          "head": "Battlefield outsold Call of Duty in the US for the first time",
+          "body": "Circana ranked Black Ops 7 fifth for 2025. Battlefield 6 was number one, after the biggest launch in its history. [1, 2]",
+          "means": "The conquest pool has a name: Battlefield players. They're on their phones every day."
+        },
+        {
+          "date": "Oct 23, 2026",
+          "head": "MW4 at $70, and no Game Pass on day one",
+          "body": "It's the first mainline Call of Duty since the Microsoft deal to skip Game Pass at launch. Pre-orders unlock the campaign Oct 16. [3, 4]",
+          "means": "Lapsed Game Pass players now have to buy. That's a persuasion job, and a household one."
+        },
+        {
+          "date": "Oct 16, 2026",
+          "head": "Call of Duty returns to Nintendo after 13 years",
+          "body": "MW4 is the series' first Nintendo release since 2013. It's a code-in-box launch on Switch 2, after an open beta there in August. [5]",
+          "means": "A brand-new buyer who has never owned Call of Duty. Sabio already builds Switch 2 player audiences."
+        },
+        {
+          "date": "Nov 19, 2026",
+          "head": "GTA VI launches into an otherwise empty November",
+          "body": "Activision moved MW4 into October to stay out of its way. It's the only major release in the month. [6]",
+          "means": "The window to win players, and keep them playing, closes in 27 days."
+        }
       ]
     },
     {
-      "type": "lists",
-      "title": "The apps we can build from",
-      "kicker": "Ownership of each app is a targeting input, alone or combined",
-      "footnote": "Illustrative US mobile devices per app. Final counts come from the build. [CONFIRM before sending] Source: Sabio gaming targeting builds, 2025 – 2026.",
-      "columns": [
-        { "head": "Franchise", "sub": "Activision and Call of Duty apps", "items": [["Call of Duty: Mobile", "9MM"], ["COD companion app", "2MM"], ["Candy Crush (halo)", "20MM"]] },
-        { "head": "Rival shooters", "sub": "Battle royale and tactical shooters", "items": [["Fortnite", "14MM"], ["PUBG Mobile", "5MM"], ["Free Fire", "4MM"], ["Delta Force", "1.5MM"], ["Blood Strike", "1MM"]] },
-        { "head": "Platform & community", "sub": "Where they buy, watch and talk", "items": [["Xbox / Game Pass", "11MM"], ["PlayStation App", "13MM"], ["Steam", "6MM"], ["Discord", "25MM"], ["Twitch", "12MM"]] }
+      "type": "opening",
+      "title": "The opening: conquest and win-back",
+      "kicker": "Why MW4's media should chase the swing households, not the loyal ones",
+      "stat": "#5",
+      "statLabel": "Where Black Ops 7 finished in US 2025 sales. Battlefield 6 was number one.",
+      "statSource": "Sources 1, 2 (Circana via VGC and Game World Observer)",
+      "headline": "We think MW4 is won on conquest and win-back, not on the core.",
+      "points": [
+        {
+          "head": "The core is locked",
+          "body": "Franchise players will show up on Oct 16. Budget spent re-reaching them is budget not spent on the homes that decide the launch."
+        },
+        {
+          "head": "The swing is named",
+          "body": "Battlefield players, lapsed Black Ops 7 and Game Pass homes, and new Switch 2 owners. Each is an app ecosystem we can see on the phone."
+        },
+        {
+          "head": "The clock is short",
+          "body": "Pre-order push to Oct 16, launch on Oct 23, hold players to Nov 19. Three flights, one audience plan."
+        }
       ]
+    },
+    {
+      "type": "glance",
+      "title": "Sabio at a glance",
+      "kicker": "Built on our own data, tech and content since 2014",
+      "takeaway": "the Battlefield, Switch 2 and lapsed-player homes, reached on the TV they'll play on, by a partner that owns the data, the supply and the creators."
     },
     {
       "type": "audiences",
-      "title": "Three core audiences for the launch",
+      "title": "Three audiences for the launch window",
       "kicker": "Each one is an app ecosystem, not a demographic · Sized on the final build",
-      "footnote": "Candy Crush sits under Activision Blizzard and can be used as a halo or suppressed. Reach is illustrative until the final build.",
+      "source": "Current Call of Duty players can be suppressed to protect budget, or retargeted for Oct 16 early access. Reach is illustrative until the build is run. App lists finalized with Activision.",
       "cards": [
-        { "tag": "Prime", "name": "The franchise player", "desc": "Already plays Call of Duty on the phone. Knows the launch is coming.", "apps": "Call of Duty: Mobile · COD companion · Xbox · PlayStation App", "goal": "Pre-order, and play on day one", "reach": "CTV 6MM | OTT 4MM | Mobile 9MM" },
-        { "tag": "Conquest", "name": "The rival shooter player", "desc": "Plays the genre every week, in someone else's game.", "apps": "Fortnite · PUBG Mobile · Free Fire · Delta Force", "goal": "Bring them to Call of Duty", "reach": "CTV 12MM | OTT 8MM | Mobile 17MM" },
-        { "tag": "Prove", "name": "The lapsed console home", "desc": "Console and Game Pass on the phone, no Call of Duty app in 30 days.", "apps": "Xbox · Game Pass · Steam · Discord · Twitch", "goal": "Come back for the new title", "reach": "CTV 9MM | OTT 6MM | Mobile 13MM" }
+        {
+          "tag": "Conquest",
+          "name": "The Battlefield player",
+          "desc": "Plays a shooter every week, just not Call of Duty. Plays on console or PC, and it shows on the phone.",
+          "apps": "EA app · Delta Force · Fortnite · PUBG Mobile · Discord",
+          "goal": "Switch them to MW4 before Nov 19",
+          "reach": "CTV 12MM | OTT 8MM | Mobile 17MM"
+        },
+        {
+          "tag": "Win-back",
+          "name": "The lapsed Call of Duty home",
+          "desc": "Xbox or Game Pass on the phone, and no Call of Duty app opened in 60+ days.",
+          "apps": "Xbox · Game Pass · PlayStation App · Call of Duty: Mobile",
+          "goal": "Pre-order, now that Game Pass won't carry it",
+          "reach": "CTV 9MM | OTT 6MM | Mobile 13MM"
+        },
+        {
+          "tag": "New",
+          "name": "The Switch 2 household",
+          "desc": "Nintendo apps in use and a Switch 2 in the home. Hasn't had Call of Duty on Nintendo since 2013.",
+          "apps": "Nintendo Switch App · Nintendo Store · Nintendo Today! · Mario Kart Tour",
+          "goal": "Buy the code-in-box on day one",
+          "reach": "CTV 5MM | OTT 3MM | Mobile 8MM"
+        }
       ]
     },
     {
-      "type": "divider",
-      "num": "02",
-      "title": "Activation and scale",
-      "desc": "Three audiences that build to scale on CTV and mobile, with creator-led spots and a path to pre-order.",
-      "pages": "Pages 10 – 12 · How reach builds, where it runs, the path to pre-order"
-    },
-    {
       "type": "reach",
-      "title": "Three audiences build to 24MM households",
+      "title": "Three audiences build to 23MM households",
       "kicker": "How CTV reach grows as each audience is layered in · Deduplicated",
-      "footnote": "Illustrative. Net-new counts remove homes already in an earlier audience. [CONFIRM before sending] Source: App Science® household graph methodology, 2025 – 2026.",
+      "source": "Illustrative [CONFIRM]. Net-new counts remove homes already in an earlier audience. Source: App Science® household graph methodology, 2025 – 2026.",
       "bars": [
-        { "label": "Franchise players", "value": 6 },
-        { "label": "Rival shooter players", "value": 11 },
-        { "label": "Lapsed console homes", "value": 7 }
+        {
+          "label": "Battlefield players",
+          "value": 12
+        },
+        {
+          "label": "Lapsed CoD homes",
+          "value": 7
+        },
+        {
+          "label": "Switch 2 households",
+          "value": 4
+        }
       ],
-      "total": "24MM",
+      "total": "23MM",
       "totalLabel": "unique CTV households across the three audiences",
       "body": "Conquest adds the most homes, and that's where launch growth comes from.\n\nWe see which apps sit on a phone, find the home IP it returns to, and connect it to the CTV on that same IP."
     },
@@ -114,12 +147,24 @@
       "type": "activation",
       "title": "Data, media and creators together",
       "kicker": "App Science® runs on Sabio media · No data CPM, license or match fee",
-      "footnote": "Creator TV® talent examples: Azzyland (20MM followers), Uncle Roger (20MM followers). Talent fit for Activision to be confirmed.",
+      "source": "Creator TV® talent shown in Sabio's 2026 materials includes King Bach (58MM followers) and Azzyland (20MM). Talent fit for Activision to be confirmed.",
       "channels": [
-        { "head": "CTV", "body": "Every major TV OEM and streaming device. Non-skippable video, QR codes to pre-order." },
-        { "head": "Mobile", "body": "In-app video and display on the same households, one tap from the store." },
-        { "head": "Programmatic", "body": "PMP and deal IDs into the DSP Omnicom already buys through." },
-        { "head": "Creator TV®", "body": "Our O&O streaming channel. Creator-led spots and integrations with gaming talent." }
+        {
+          "head": "CTV",
+          "body": "Every major TV OEM and streaming device. Non-skippable video with QR codes straight to pre-order."
+        },
+        {
+          "head": "Mobile",
+          "body": "In-app video and display on the same households, one tap from the store or the Call of Duty app."
+        },
+        {
+          "head": "Programmatic",
+          "body": "PMP deals on Omnicom's seats in the DSP it already buys through, or managed IO."
+        },
+        {
+          "head": "Creator TV®",
+          "body": "Our owned streaming channel. Creator-led spots and integrations with gaming talent, next to the audience buy."
+        }
       ],
       "getsHead": "What Activision gets",
       "gets": [
@@ -127,104 +172,164 @@
         "Custom creative built in-house at no extra cost",
         "Household frequency managed across screens",
         "DoubleVerify on all supply, TAG registered",
-        "App Science® readout on who pre-ordered"
+        "An App Science® readout on who converted"
       ]
     },
     {
       "type": "flow",
-      "title": "From the screen to day one",
-      "kicker": "One household, three moments · The TV builds the hype, the phone closes it",
-      "footnote": "Benchmark: CTV video with QR code, 96% VCR. Mobile video benchmark 85% VCR. [CONFIRM launch title and date with Activision]",
+      "title": "Three flights, one audience plan",
+      "kicker": "The TV builds the hype, the phone closes it · Oct 5 to Nov 19",
+      "benchmark": "Benchmarks: CTV video with QR code, 96% VCR. Mobile video, 85% VCR.",
       "steps": [
-        { "tag": "Prime", "head": "CTV video with QR code", "body": "Shooter households see the launch trailer on the big screen. The QR code goes straight to pre-order." },
-        { "tag": "Prove", "head": "Mobile video and display", "body": "The same households are retargeted on their phones after CTV exposure, including rival shooter players." },
-        { "tag": "Engage", "head": "Install and play", "body": "Mobile players go to Call of Duty: Mobile or the companion app. Console homes go to the platform store." }
+        {
+          "tag": "Oct 5 – 16 · Pre-order",
+          "head": "Early access is the hook",
+          "body": "Battlefield and lapsed homes see the MW4 trailer on CTV. The QR code goes to pre-order, and the Oct 16 campaign early access does the selling."
+        },
+        {
+          "tag": "Oct 16 – 23 · Launch",
+          "head": "Day one on every screen",
+          "body": "Mobile retargets exposed homes. Switch 2 households get the code-in-box message. Creator TV® spots add reach at launch."
+        },
+        {
+          "tag": "Oct 23 – Nov 19 · Hold",
+          "head": "Keep them before GTA VI",
+          "body": "Converted homes are suppressed. Budget shifts to the audiences still converting, until GTA VI takes the spotlight."
+        }
       ]
-    },
-    {
-      "type": "divider",
-      "num": "03",
-      "title": "Measurement and privacy",
-      "desc": "Read against pre-orders and installs, proven in gaming, built on data you can defend.",
-      "pages": "Pages 14 – 16 · Attribution, proof, data considerations"
     },
     {
       "type": "paths",
       "title": "Measured against pre-orders and installs",
       "kicker": "Two paths to one conversion · Activision's measurement partner stays the judge",
-      "footnote": "Source: Sabio Performance attribution materials, 2025 – 2026. MMP integration confirmed at setup: Adjust live today, AppsFlyer validation in progress. [CONFIRM]",
+      "source": "Source: Sabio Performance attribution materials, 2025 – 2026. MMP integration confirmed at setup: Adjust live today, AppsFlyer validation in progress [CONFIRM].",
       "paths": [
-        { "head": "CTV · view-through to pre-order", "steps": ["Ad plays on the TV. Household IP is logged", "Someone in the home scans the QR or searches the store", "Pre-order page visited, Sabio pixel fires", "Visit matched to the impression, read against the holdout"] },
-        { "head": "Mobile · click-through to install", "steps": ["Ad plays on the phone and is tapped. Device ID logged", "Redirected to the app store", "Call of Duty app installs and opens", "MMP matches the device ID to the click. Install counted"] }
+        {
+          "head": "CTV · view-through to pre-order",
+          "steps": [
+            "Ad plays on the TV. Household IP is logged",
+            "Someone in the home scans the QR or searches the store",
+            "The pre-order page is visited and the Sabio pixel fires",
+            "Visit matched to the impression and read against a 10% holdout"
+          ]
+        },
+        {
+          "head": "Mobile · click-through to install",
+          "steps": [
+            "Ad plays on the phone and is tapped. Device ID logged",
+            "Redirected to the app store",
+            "Call of Duty app installs and opens",
+            "The MMP matches the device ID to the click. Install counted"
+          ]
+        }
       ]
     },
     {
       "type": "proof",
-      "title": "Gaming audiences, proven live",
+      "title": "Gaming and youth audiences, proven live",
       "kicker": "Cleared case studies and anonymized readouts",
-      "footnote": "Sources: Sabio 2026 Master Case Study Deck; government health agency case study; App Science® QSR brand-lift study, Q3 2025.",
+      "source": "Sources: Sabio 2026 Master Case Study Deck; Sabio x Kinesso partnership review, Sep 2026; government health agency case study.",
       "stats": [
-        { "value": "99%", "label": "CTV video completion rate", "context": "Amazon cloud gaming, CTV-exclusive campaign" },
-        { "value": "+250%", "label": "QR scan rate over benchmark", "context": "Gov't health agency, adults 18 – 24 with a gaming affinity" },
-        { "value": "+249%", "label": "App download intent lift", "context": "National QSR brand, App Science® brand-lift, 99% confidence" }
+        {
+          "value": "99%",
+          "label": "CTV video completion rate",
+          "context": "Amazon cloud gaming, CTV-exclusive campaign"
+        },
+        {
+          "value": "+250%",
+          "label": "QR scan rate over benchmark",
+          "context": "Gov't health agency, adults 18 – 24 with a gaming affinity"
+        },
+        {
+          "value": "99%",
+          "label": "CTV completion, through Omnicom",
+          "context": "Levi's via Kinesso, now part of Omnicom, on App Science® audiences"
+        }
       ],
-      "sideHead": "Why this, why now",
-      "side": "Q4 is when shooter launches are won or lost, and the conquest pool is on phones every day.\n\nWe think a four-week read on rival shooter players is the fastest way to show what the graph adds to the launch plan."
+      "sideHead": "Why now",
+      "side": "There are 16 days until early access and 23 until launch.\n\nThe audiences take 48 hours to build. We think a Battlefield conquest read is the fastest way to show what the graph adds before GTA VI changes the conversation."
     },
     {
       "type": "grid",
       "title": "Privacy and data considerations",
       "kicker": "What we see, what we don't, and what stays put",
-      "footnote": "Source: Sabio Internal FAQ and CTV FAQ, 2026. Data management documentation available on request.",
+      "source": "Source: Sabio Internal FAQ and CTV FAQ, 2026. Data management documentation available on request.",
       "cells": [
-        { "head": "What we observe", "body": "Which apps are installed and how recently they're used. Never in-game activity or anything a player types." },
-        { "head": "Age", "body": "Adult audiences only, 18+. Mature-rated creative runs only on age-appropriate inventory." },
-        { "head": "What leaves Sabio", "body": "No device IDs. Reporting is aggregated by age, demo and geo. Exposure files can go to your MMP." },
-        { "head": "iOS signal", "body": "Apple's restrictions mean most app data comes from Android. We show the iOS share on the build." },
-        { "head": "Activision 1P", "body": "Player lists can be layered in or suppressed via LiveRamp or a clean room, on Activision's terms." },
-        { "head": "Brand safety", "body": "DoubleVerify on all supply, TAG registered, US only. Block and allow lists accepted." }
+        {
+          "head": "What we observe",
+          "body": "Which apps are installed and how recently they're used. Never in-game activity or anything a player types."
+        },
+        {
+          "head": "Age",
+          "body": "Adults 18+ only. M-rated creative runs only on age-appropriate inventory, with block and allow lists."
+        },
+        {
+          "head": "What leaves Sabio",
+          "body": "No device IDs. Reporting is aggregated by age, demo and geo. Exposure files can go to your MMP."
+        },
+        {
+          "head": "iOS signal",
+          "body": "Apple's restrictions mean most app data comes from Android. We show the iOS share on each build."
+        },
+        {
+          "head": "Activision 1P",
+          "body": "Player lists can be layered in or suppressed through LiveRamp or a clean room, on Activision's terms."
+        },
+        {
+          "head": "Brand safety",
+          "body": "DoubleVerify on all supply, TAG registered, US only."
+        }
       ]
     },
     {
-      "type": "divider",
-      "num": "04",
-      "title": "Plan and next steps",
-      "desc": "A four-week US launch test with a holdout, and three things we need to start.",
-      "pages": "Pages 18 – 19 · Test design, next steps"
-    },
-    {
-      "type": "plan",
-      "title": "Four weeks live, one clean read",
-      "kicker": "A simple US test around launch · Illustrative, budget and flight to be set with Omnicom",
-      "footnote": "Test sized and priced on request from the Sabio rate card. No other client's pricing is referenced here.",
-      "phases": [
-        { "tag": "Wk 1", "head": "Set up", "body": "Confirm KPI and MMP. Build and size the three audiences. Player-list suppression in place." },
-        { "tag": "Weeks 2 – 5 · Live", "head": "Live", "body": "CTV with QR, mobile retargeting, creator-led spots. Weekly delivery and conversion reporting." },
-        { "tag": "Wk 6", "head": "Readout", "body": "Pre-orders and installs by audience against the holdout, plus App Science® insights." }
-      ],
-      "split": [90, 10],
-      "splitCaption": "10% of matched households see nothing, so conversions are read against no exposure.",
-      "asks": [
-        { "head": "The goal.", "body": "Pre-orders, installs or both, and the MMP." },
-        { "head": "The window.", "body": "Launch date and the flight around it." },
-        { "head": "The intro.", "body": "The Activision media lead on the Omnicom side." }
-      ]
-    },
-    {
-      "type": "nextsteps",
-      "title": "Next steps",
-      "items": [
-        { "tag": "Coffee", "head": "Grab 20 minutes at Adweek.", "body": "Josh, we'd love to walk you through this in person and hear what the launch plan needs." },
-        { "tag": "The intro", "head": "Meet the Activision team.", "body": "An intro to whoever owns audiences on the account, so we can build to their brief." },
-        { "tag": "The build", "head": "Sized audiences in 48 hours.", "body": "Send the launch window and KPI, and we'll turn around sized audiences and a test plan." }
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three moves to be live before early access",
+      "closer": "The audiences take 48 hours. The calendar is the only thing we can't build.",
+      "moves": [
+        {
+          "head": "Coffee at Adweek",
+          "body": "Twenty minutes with Josh to walk through the audiences and hear what the launch plan still needs.",
+          "owner": "Owner: Sabio + Omnicom · week of Oct 5"
+        },
+        {
+          "head": "Build and size",
+          "body": "Send the KPI and MMP. We'll size the three audiences, set Call of Duty player suppression and share a flight plan.",
+          "owner": "Owner: Sabio · 48 hours from the brief"
+        },
+        {
+          "head": "Run the three flights",
+          "body": "Pre-order to Oct 16, launch to Oct 23, then hold to Nov 19, with a 10% holdout and a readout before GTA VI.",
+          "owner": "Owner: Activision media team + Sabio · Oct 5 – Nov 19"
+        }
       ]
     },
     {
       "type": "thanks",
       "line": "Happy to build any of this out further. Please let us know what else might be helpful.",
       "names": [
-        { "name": "Ben Bring", "role": "VP, Agency and Client Partnerships", "contact": "bbring@sabio.inc · 347-249-5838" },
-        { "name": "Shae Mackey", "role": "VP of Sales, East", "contact": "shae@sabio.inc · 516-849-8356" }
+        {
+          "name": "Ben Bring",
+          "role": "VP, Agency and Client Partnerships",
+          "contact": "bbring@sabio.inc · 347-249-5838"
+        },
+        {
+          "name": "Shae Mackey",
+          "role": "VP of Sales, East",
+          "contact": "shae@sabio.inc · 516-849-8356"
+        }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Sep 30, 2026",
+      "items": [
+        "Battlefield 6 top US seller of 2025, Black Ops 7 fifth (Circana): Video Games Chronicle; Game World Observer, Jan 23, 2026.",
+        "Battlefield 6 sold 7MM+ copies in its first three days (EA): Game World Observer; GameSpot.",
+        "Call of Duty: Modern Warfare 4 available Oct 23, 2026; pre-order Campaign Early Access from Oct 16: Xbox.com; Activision support; callofduty.com.",
+        "MW4 priced at $70 and not on Game Pass at launch: T3; Tech Insider.",
+        "First Call of Duty on a Nintendo platform in 13 years; code-in-box on Switch 2; Switch 2 open beta: Nintendo Wire, Aug 24, 2026; Nintendo.com; callofduty.com.",
+        "GTA VI release Nov 19, 2026, and MW4's October timing: TheGamer; gagadget; gtanerd."
       ]
     }
   ]

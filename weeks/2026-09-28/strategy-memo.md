@@ -5,13 +5,14 @@ Newsletters, vendor pitches, internal wins threads and calendar accepts were ski
 
 ## Decks built this week
 
-| # | Client (agency) | Deck | Why now |
-|---|---|---|---|
-| 1 | **Merck** (Omnicom) | `decks/Sabio_Merck_Omnicom_Deals_9.30.26.pptx` | Margarita Leonard replied 9/30 with Merck and L-Omni contacts and offered to send the deal form with Omnicom seat IDs. Sabio's Magnite activation went live this week. Scott Cofsky said in Feb that Animal Health is the easier test, and fall is adult-tick season. |
-| 2 | **Activision** (Omnicom) | `decks/Sabio_Activision_Shooter_Audiences_9.30.26.pptx` | Ben reached out to Josh Mallalieu 9/29 to get in front of the Activision team. A Q4 shooter launch window makes a conquest audience story timely. The deck is the thing to bring to the Adweek coffee. |
+Both are in Sabio house style (Sabio Brand Guideline palette, Poppins, official logos) and follow the flow of the APEX and Kinesso decks. Each opens with what's happening at the client right now, and every market claim is numbered to a Sources slide.
 
-Both decks follow the Walmart Sparky structure: a short-answer page, then Audience, Activation & Scale, Measurement & Privacy, and Plan & Next Steps.
-Every reach and device count is **illustrative and tagged [CONFIRM]** until the build is run.
+| # | Client (agency) | Deck | The angle, before they ask |
+|---|---|---|---|
+| 1 | **Merck** (Omnicom) | `decks/Sabio_Merck_Omnicom_Deals_9.30.26.pptx` | FDA is moving to end "adequate provision" for broadcast drug ads (proposal expected Dec 2026, after ~100 cease-and-desist letters), and pharma CTV is up 23.7% to $4.7B. Bravecto Quantum's label added Asian longhorned tick in March, and that tick is now in 19 states. Keytruda Qlex and Enflonsia make HCP reach timely. Pitch: three Magnite deals on Omnicom seats, with an Animal Health tick-season test first. Trigger: Marga's 9/30 reply offering the deal form and Merck contacts. |
+| 2 | **Activision** (Omnicom) | `decks/Sabio_Activision_Shooter_Audiences_9.30.26.pptx` | Battlefield 6 outsold Call of Duty in the US in 2025. MW4 launches Oct 23 at $70 with no Game Pass on day one, Call of Duty is back on Nintendo (Switch 2) for the first time in 13 years, and GTA VI lands Nov 19. Pitch: conquest (Battlefield), win-back (lapsed / Game Pass) and Switch 2 audiences across three flights, Oct 5 – Nov 19. Trigger: Ben's 9/29 note to Josh Mallalieu. |
+
+Every reach and device count is illustrative and tagged [CONFIRM] until the build is run.
 
 ## Other openings, ranked
 
@@ -25,7 +26,8 @@ Every reach and device count is **illustrative and tagged [CONFIRM]** until the 
 ## Before anything goes out
 
 - [ ] Run the audience builds and replace every `[CONFIRM]` reach and device count.
-- [ ] Merck: confirm Omnicom seat IDs, and that Human Health targeting clears Merck MLR (no condition-level audiences).
+- [ ] Merck: confirm Omnicom seat IDs, that Human Health targeting clears Merck MLR (no condition-level audiences), and the state health-data law note with Merck legal.
 - [ ] Activision: confirm the launch title and date, and the MMP (Adjust live, AppsFlyer pending).
-- [ ] Case studies used are anonymized or already published in the 2026 Master Case Study Deck. No other client's pricing is referenced.
+- [ ] Case studies: Levi's via Kinesso (99% VCR) is named in both decks as proof inside Omnicom. Confirm it's cleared for external use; no spend figures are shown. Others are anonymized or already in the 2026 Master Case Study Deck.
+- [ ] Market facts were pulled from public reporting on Sep 30, 2026 (Sources slide). Re-check anything time-sensitive, like the FDA rule status and MW4 details, the day you send.
 - [ ] Check Creator TV® talent fit for Activision before naming creators externally.
