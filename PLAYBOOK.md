@@ -10,7 +10,7 @@ Each week, scan Ben Bring's work email for live client and agency openings, pick
 | Reference deck | OneDrive `2026/Clients/Publicis/Walmart/Sabio_Walmart_Sparky_AI_Audiences_10.2.26.pptx` |
 | Renderer | `lib/sabio-deck.js`: a JSON spec in, a `.pptx` out |
 | Weekly output | `weeks/<Monday date>/`, holding `strategy-memo.md`, `specs/*.json` and `decks/*.pptx` |
-| OneDrive copies | `2026/Clients/<Agency>/<Client>/` for decks, `2026/Clients/Weekly Proactive Strategy/` for the memo |
+| OneDrive copies | `2026/Clients/<Agency>/<Client>/` for decks, `2026/Clients/Weekly Proactive Strategy/` for the memo. Needs write access; see step 8 |
 
 ## Steps
 
@@ -38,5 +38,6 @@ Each week, scan Ben Bring's work email for live client and agency openings, pick
 7. **Write `strategy-memo.md`** with the decks built, other openings ranked with next actions, and a checklist of what to confirm before sending.
 8. **Deliver**:
    - Commit `weeks/<date>/` and push.
-   - Upload the decks and memo to OneDrive (paths above).
-   - Email Ben a short summary with the OneDrive links. **Never email clients.** Everything is a draft for Ben.
+   - End the run with a short summary: the decks built, their GitHub links, and the ranked openings.
+   - Upload the decks and memo to OneDrive only if the Microsoft 365 connector has `Files.ReadWrite.All`. As of 9/30/26 it is read-only (`Files.Read`, `Mail.Read`), so the repo is the delivery point.
+   - **Never email or contact clients.** Everything is a draft for Ben.
