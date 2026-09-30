@@ -1,0 +1,22 @@
+{
+  "name": "sabio-deck-builders",
+  "version": "1.0.0",
+  "description": "Weekly proactive Sabio strategy decks",
+  "scripts": {
+    "deck": "node lib/sabio-deck.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminbring-cloud/Sabio-Deck-Builders-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminbring-cloud/Sabio-Deck-Builders-/issues"
+  },
+  "homepage": "https://github.com/benjaminbring-cloud/Sabio-Deck-Builders-#readme",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
