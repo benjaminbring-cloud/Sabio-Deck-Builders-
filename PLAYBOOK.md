@@ -45,3 +45,19 @@ Each week, scan Ben Bring's work email for live client and agency openings, pick
    - End the run with a short summary: the decks built, their GitHub links, and the ranked openings.
    - Upload the decks and memo to OneDrive only if the Microsoft 365 connector has `Files.ReadWrite.All`. As of 9/30/26 it is read-only (`Files.Read`, `Mail.Read`), so the repo is the delivery point.
    - **Never email or contact clients.** Everything is a draft for Ben.
+
+## House format for all new decks: the ICCU Home Loans deck
+
+As of 10/5/26, every new deck follows `Sabio_DrakeCooper_ICCU_HomeLoans_10.2.26.pptx` (OneDrive `2026/Clients/Drake Cooper/ICCU/`), not the earlier 15-slide layout. It supersedes the slide order in step 6.
+
+Sequence (27 slides in the original):
+1. Cover: spaced-out title ("S A B I O × CLIENT"), one-line promise, "Proactive recommendation | Prepared for <agency> | date | market", presenter line.
+2. Contents: five numbered sections with a one-line description and page range each.
+3. **The short answer**: answers the buyer's likely questions up front and shows what the budget buys (three stat tiles, one-line recap).
+4. **Section 01, Why test now**: section divider, then three big-number slides, each with a "what this means for <client>" band and a Sources line: (a) the media shift (streaming/CTV), (b) a data-accuracy point on standard targeting, (c) the client's own market right now.
+5. **Section 02, Why apps find <audience>**: divider, "the problem" (three numbered problems), Sabio scale (80MM / 280MM / 115MM, Creator TV® creators), "You are what you app" graph slide, the signal ladder (category, segment, behavior, on the device), and a three-column comparison against demographic and modeled targeting.
+6. **Section 03, Reaching <audience>**: divider, three app-built audiences (Prime / Conquest / Prove, each with an app ecosystem and a goal), a competitive-app reach chart with "how the match works", screen-to-action flow (CTV with QR, mobile video retarget, banners, with $ per tactic), customized inventory.
+7. **Section 04, The plan**: divider, budget split with CPMs and delivered impressions, 8-week pacing chart with milestone callouts, and a compliance slide (what we target, what we don't, creative, consent, what leaves Sabio).
+8. **Section 05, Proof and next steps**: divider, proof chart from a published or anonymized case study, how we will measure, "what we need to start" (three asks: goal, brief, creative; 48-hour turnaround), Thank you.
+
+Rules carried over: claim titles with a number, a Sources line on every stat slide, `[CONFIRM]` on any unbuilt reach count, no other client's pricing, anonymize case studies unless cleared. Win-back decks use the same sequence, with Section 01 reading "Why come back now" and an added "What we did together / what's new since" slide in Section 05.
