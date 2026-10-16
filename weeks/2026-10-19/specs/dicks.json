@@ -1,0 +1,181 @@
+{
+  "client": "DICK'S",
+  "fileTitle": "Sabio x DICK'S Sporting Goods: Holiday Across Two Banners",
+  "footer": "Proactive point of view for Zenith",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "One holiday, two banners, one household",
+      "subtitle": "DICK'S is growing and Foot Locker is resetting. App Science® finds the sneaker, outdoor and youth sports homes that can shop both banners, and reaches them on the TV they watch.",
+      "meta": "Proactive recommendation | Prepared for Zenith | October 2026 | US only",
+      "names": "Will Phung · Amanda Grond · Stamos Biliris\nBen Bring · Isabella Imbriano",
+      "stat": {
+        "label": "Q2 comps, side by side",
+        "value": "-3.6%",
+        "unit": "Foot Locker comp",
+        "body": "DICK'S banner comps grew 4.9% in Q2. Foot Locker fell 3.6%, and its full-year comp guide moved to -2%. Holiday is the first big test of the combined business. [1]"
+      }
+    },
+    {
+      "type": "news",
+      "title": "What's happening at DICK'S right now",
+      "kicker": "Four signals from the last six months · Numbered sources on page 10",
+      "items": [
+        {
+          "date": "Aug 25, 2026",
+          "head": "Net sales up 53% to $5.59B with Foot Locker in",
+          "body": "The DICK'S banner grew comps 4.9%, helped by World Cup demand, a bigger ticket and more transactions. [1]",
+          "means": "The core banner has momentum to carry into holiday."
+        },
+        {
+          "date": "Aug 25, 2026",
+          "head": "Foot Locker comps fell 3.6%",
+          "body": "Legacy footwear was soft. 110 stores closed in the first half, leaving 2,478. The full-year Foot Locker comp guide is now -2%. [1]",
+          "means": "Foot Locker shoppers are the swing group for the combined business."
+        },
+        {
+          "date": "May 27, 2026",
+          "head": "36 House of Sport stores and a Foot Locker remodel",
+          "body": "DICK'S runs 36 House of Sport and 44 Field House stores. The Fast Break remodel was set to reach about 250 Foot Locker stores by back-to-school. [2]",
+          "means": "New store formats need nearby households who know they exist."
+        },
+        {
+          "date": "Sep 10, 2026",
+          "head": "Holiday sales forecast to grow 4.0% to 4.8%",
+          "body": "Deloitte expects $1.70T to $1.71T in holiday sales. It sees e-commerce growing 7.5% to 8.4%. [3]",
+          "means": "A modest season rewards share-taking, not waiting for the market."
+        }
+      ]
+    },
+    {
+      "type": "opening",
+      "title": "The opening: sell both banners to one home",
+      "kicker": "Why the holiday plan should target households, not banners",
+      "stat": "49%",
+      "statLabel": "Share of US TV time spent on streaming in July 2026. Broadcast was 19.5%.",
+      "statSource": "Source 4 (Nielsen, The Gauge, July 2026)",
+      "headline": "We think DICK'S wins holiday by reaching the homes that shop sneakers, gear and team sports, wherever they buy today.",
+      "points": [
+        {
+          "head": "Two banners, one household",
+          "body": "A Foot Locker app home is now a DICK'S customer too. We can see both apps on the phones in that home and plan one message across them."
+        },
+        {
+          "head": "Apps show who is shopping now",
+          "body": "Sneaker, outdoor and youth sports apps opened in the last 30 days tell us who is buying this season, not who fit a profile last year."
+        },
+        {
+          "head": "The TV is where gifting is decided",
+          "body": "Half of TV time is streaming. We put the plan there, then follow the same homes to the phone and the store."
+        }
+      ]
+    },
+    {
+      "type": "glance",
+      "title": "Sabio at a glance",
+      "kicker": "Our own data, ad tech and content since 2014 · A Publicis partner for 9+ years",
+      "takeaway": "the sneaker, outdoor and youth sports homes, found by the apps they use and reached on 115MM CTV households, from a partner that owns the data, the supply and the creators."
+    },
+    {
+      "type": "audiences",
+      "title": "Three audiences for the holiday window",
+      "kicker": "Each one is an app ecosystem, not a demographic · Sized on the final build",
+      "source": "Foot Locker and REI reach from Sabio's March 2026 Zenith competitive audience pull; refresh at build. GameChanger is a DICK'S app, so its users can be reinforced or suppressed. App lists finalized with DICK'S and Zenith.",
+      "cards": [
+        {
+          "tag": "Prime",
+          "name": "The sneaker household",
+          "desc": "Foot Locker or Champs app in the home, plus a sneaker drop app. Buys footwear as gifts.",
+          "apps": "Foot Locker · Champs Sports · Nike SNKRS · GOAT · StockX",
+          "goal": "Bring the Foot Locker home into DICK'S for the rest of the list",
+          "reach": "CTV 5.7MM | OTT 9.3MM | Mobile 13.3MM"
+        },
+        {
+          "tag": "Conquest",
+          "name": "The outdoor gifter",
+          "desc": "Shops REI and plans trips on the phone. Buys jackets, boots and gear in Q4.",
+          "apps": "REI · AllTrails · Strava · onX · Patagonia",
+          "goal": "Win the outdoor gift before it goes to REI",
+          "reach": "CTV 10.2MM | OTT 15.1MM | Mobile 19.1MM"
+        },
+        {
+          "tag": "Prove",
+          "name": "The youth sports parent",
+          "desc": "Runs a team calendar and scores games on the phone. Buys gear for the next season.",
+          "apps": "GameChanger · TeamSnap · SportsEngine · Little League",
+          "goal": "Own the winter sports and spring gear list",
+          "reach": "Sized at build [CONFIRM]"
+        }
+      ]
+    },
+    {
+      "type": "activation",
+      "title": "How it runs, and how Zenith buys it",
+      "kicker": "One audience across CTV, mobile and Creator TV · Plugs into Publicis CoreAI and Epsilon",
+      "source": "Publicis route: App Science® segments onboarded to the Epsilon identity spine or packaged as a curated deal ID for the trading desk [CONFIRM with Zenith investment].",
+      "channels": [
+        { "head": "CTV · 60%", "body": "$180K. Holiday gifting spots on every major streaming platform, with a QR to the nearest House of Sport or Foot Locker." },
+        { "head": "Mobile video · 30%", "body": "$90K. The same CTV-exposed homes on their phones, with store locator and app download calls to action." },
+        { "head": "Creator TV® · 10%", "body": "$30K. Creator-led gift guides inside sports and lifestyle shows on Sabio's own channel." },
+        { "head": "Ways to buy", "body": "Direct IO managed by Sabio, or a curated PMP deal ID on Zenith's DSP. One rate covers data and media." }
+      ],
+      "getsHead": "What Zenith gets",
+      "gets": [
+        "A net-new app signal for CoreAI audiences",
+        "The app list behind every segment",
+        "DoubleVerify on every impression",
+        "70% viewability guarantee",
+        "Weekly pacing, with a store visit read on the same graph"
+      ]
+    },
+    {
+      "type": "grid",
+      "title": "The test plan and partner checks",
+      "kicker": "$300K over eight weeks · Everything Zenith investment asks before a buy",
+      "source": "Rate from the Sabio rate card (Prime, standard video); CTV rate and added value tier to be confirmed before send.",
+      "cells": [
+        { "head": "Budget and flight", "body": "$300K, Nov 2 to Dec 27, 2026. Spend shifts to the best audience after week 3." },
+        { "head": "Rate and delivery", "body": "$17.48 CPM, data and media in one rate [CONFIRM CTV rate]. About 17.2MM impressions." },
+        { "head": "Added value", "body": "Advanced App Science® insights at $275K+: reach and frequency, app, TV and place affinities, audience verification." },
+        { "head": "Measurement", "body": "Store visits and cost per visit for House of Sport and Foot Locker, exposed vs. control, on the same graph." },
+        { "head": "Privacy and safety", "body": "App ownership only, never in-app behavior. Aggregated reporting. DoubleVerify and a 70% viewability guarantee." },
+        { "head": "Supplier diversity", "body": "Sabio is minority-owned, so this spend counts toward DICK'S and Publicis supplier diversity goals." }
+      ]
+    },
+    {
+      "type": "proof",
+      "title": "Proof from retail holidays",
+      "kicker": "Named, published Sabio case studies",
+      "source": "Sabio 2026 Master Case Study Deck.",
+      "stats": [
+        { "value": "181%", "label": "Conair ROI in three weeks", "context": "Shoppable CTV, OTT and mobile drove $522K in transfer value, with 94% VCR." },
+        { "value": "9", "label": "Holiday campaigns for Macy's", "context": "Every one delivered over the VCR benchmark, with a supplier diversity commitment." },
+        { "value": "+23.9%", "label": "Hu Chocolate mobile completion", "context": "Over benchmark, with CTV QR and custom shopper targeting." }
+      ],
+      "sideHead": "Why now",
+      "side": "Foot Locker is the newest part of DICK'S, and holiday is its first real season inside the company.\n\nWe think the homes that shop both banners are the cheapest growth DICK'S has this quarter.\n\nThat said, it only works if we start before the first gifting weekend, so timing matters more than size here."
+    },
+    {
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three moves to be live by Nov 2",
+      "closer": "Happy to walk the team through it this week. Please LMK what else would help.",
+      "moves": [
+        { "head": "Pick the goal", "body": "Zenith confirms the holiday KPI: store visits, app installs or online sales, and which banner leads.", "owner": "Zenith · by Oct 23" },
+        { "head": "Size the audiences", "body": "Sabio refreshes the three audiences and returns reach, app lists and a store visit baseline.", "owner": "Sabio · 48 hours after the goal" },
+        { "head": "Choose the route", "body": "Direct IO, or a deal ID matched into CoreAI and Epsilon. Creative and QR specs locked.", "owner": "Zenith investment · by Oct 30" }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Oct 16, 2026",
+      "items": [
+        "DICK'S Sporting Goods Q2 FY2026 results, Aug 25, 2026, via FashionUnited.",
+        "EMARKETER, Dick's experiential store strategy drives 6% comp growth, May 27, 2026.",
+        "Deloitte 2026 holiday retail forecast, via Chain Store Age, Sep 10, 2026.",
+        "Nielsen, The Gauge, July 2026 (released Sep 10, 2026).",
+        "Sabio 2026 Master Case Study Deck; Sabio competitive audience pull for Zenith, Mar 2026."
+      ]
+    }
+  ]
+}

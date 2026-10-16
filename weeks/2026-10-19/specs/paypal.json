@@ -1,0 +1,234 @@
+{
+  "client": "PayPal",
+  "fileTitle": "Sabio x PayPal: Win the Holiday Checkout",
+  "footer": "Proactive point of view for Zenith",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Win the holiday checkout, one household at a time",
+      "subtitle": "Venmo is growing fast and branded checkout is flat. App Science® finds the homes that pay with another wallet, split costs with friends or shop early, and reaches them on TV before the holiday.",
+      "meta": "Proactive recommendation | Prepared for Zenith | October 2026 | US only",
+      "names": "Will Phung · Amanda Grond · Stamos Biliris\nBen Bring · Isabella Imbriano",
+      "stat": {
+        "label": "Online branded checkout, Q2",
+        "value": "+2%",
+        "unit": "Second quarter in a row",
+        "body": "Total payment volume grew 9% to $486B, but online branded checkout grew 2%. Venmo volume grew 14%. Holiday is where checkout habits get set. [1]"
+      }
+    },
+    {
+      "type": "news",
+      "title": "What's happening at PayPal right now",
+      "kicker": "Four signals from the last three months · Numbered sources on page 10",
+      "items": [
+        {
+          "date": "Jul 28, 2026",
+          "head": "Branded checkout grew 2% for a second quarter",
+          "body": "TPV rose 9% to $486B. PayPal plans to reinvest a large part of its savings in growth, including marketing. [1]",
+          "means": "Checkout share is the number to move, and there is budget behind it."
+        },
+        {
+          "date": "Jul 28, 2026",
+          "head": "Venmo volume up 14%, Pay with Venmo up 44%",
+          "body": "Venmo posted its seventh straight quarter of double-digit growth. Buy now, pay later volume grew 26%. [1]",
+          "means": "The growth products are the ones to put on TV this season."
+        },
+        {
+          "date": "Sep 30, 2026",
+          "head": "Shoppers are worried but still spending",
+          "body": "PayPal's survey found 58% feel more financial concern, 64% expect to spend the same or more, and 67% prefer retailers with rewards. [2]",
+          "means": "Rewards and pay later are the reasons to choose PayPal at checkout."
+        },
+        {
+          "date": "Oct 5, 2026",
+          "head": "Venmo Credit Card pays up to 4% when you split",
+          "body": "Cardholders earn up to 4% cash back on purchases they split with friends through Venmo. [3]",
+          "means": "Group holiday plans are a ready-made audience for the card."
+        }
+      ]
+    },
+    {
+      "type": "opening",
+      "title": "The opening: win the wallet before the cart",
+      "kicker": "Why holiday media should chase checkout share, not awareness",
+      "stat": "67%",
+      "statLabel": "Of Americans are more likely to shop with a retailer that offers rewards or cash back.",
+      "statSource": "Source 2 (PayPal 2026 Holiday Shopping Survey)",
+      "headline": "We think PayPal grows checkout share this holiday by reaching the homes that already pay with something else.",
+      "points": [
+        {
+          "head": "The swing wallets are visible",
+          "body": "Cash App, Klarna, Afterpay and Affirm all live on the phone. We can see which homes use them and which don't use PayPal."
+        },
+        {
+          "head": "Venmo is the growth story",
+          "body": "Pay with Venmo grew 44%. Group plans and gift splitting peak in December, so the card has a natural moment."
+        },
+        {
+          "head": "The decision starts on the TV",
+          "body": "Shoppers plan gifts early and pay later. We put the reason to choose PayPal on the TV, then follow the same home to the phone."
+        }
+      ]
+    },
+    {
+      "type": "glance",
+      "title": "Sabio at a glance",
+      "kicker": "Our own data, ad tech and content since 2014 · A Publicis partner for 9+ years",
+      "takeaway": "the homes paying with other wallets, splitting with friends or shopping early, found by the apps they use and reached on 115MM CTV households."
+    },
+    {
+      "type": "audiences",
+      "title": "Three audiences for the holiday checkout",
+      "kicker": "Each one is an app ecosystem, not a demographic · Sized on the final build",
+      "source": "We see which apps are on a device and when they were used, never balances, transactions or anything typed inside an app. PayPal and Venmo users can be suppressed for reach or reinforced. App lists finalized with PayPal and Zenith.",
+      "cards": [
+        {
+          "tag": "Conquest",
+          "name": "The other wallet",
+          "desc": "Pays with Cash App or a pay-later app, and no PayPal app in the home.",
+          "apps": "Cash App · Klarna · Afterpay · Affirm · Zelle",
+          "goal": "Make PayPal and Pay Later the holiday default",
+          "reach": "Sized at build [CONFIRM]"
+        },
+        {
+          "tag": "Prime",
+          "name": "The group plan splitter",
+          "desc": "Uses Venmo and plans shared trips, dinners and tickets with friends.",
+          "apps": "Venmo · Splitwise · OpenTable · Ticketmaster · Airbnb",
+          "goal": "Put the Venmo Credit Card's 4% split reward in front of them",
+          "reach": "Sized at build [CONFIRM]"
+        },
+        {
+          "tag": "Prove",
+          "name": "The early holiday shopper",
+          "desc": "Shops big-box retail apps weekly and compares deals before Thanksgiving.",
+          "apps": "Target · Walmart · Amazon Shopping · Best Buy · Honey",
+          "goal": "Choose PayPal at checkout for rewards and pay later",
+          "reach": "Sized at build [CONFIRM]"
+        }
+      ]
+    },
+    {
+      "type": "activation",
+      "title": "How it runs, and how Zenith buys it",
+      "kicker": "One audience across CTV, mobile and Creator TV · Plugs into Publicis CoreAI and Epsilon",
+      "source": "Publicis route: App Science® segments onboarded to the Epsilon identity spine or packaged as a curated deal ID for the trading desk [CONFIRM with Zenith investment].",
+      "channels": [
+        {
+          "head": "CTV · 60%",
+          "body": "$180K. Holiday spots for checkout rewards, Pay Later and the Venmo card, with a QR to download or sign up."
+        },
+        {
+          "head": "Mobile video · 30%",
+          "body": "$90K. The same CTV-exposed homes on their phones, pointing to the app and the card offer."
+        },
+        {
+          "head": "Creator TV® · 10%",
+          "body": "$30K. Creator-led gift and group trip segments inside comedy and lifestyle shows on Sabio's own channel."
+        },
+        {
+          "head": "Ways to buy",
+          "body": "Direct IO managed by Sabio, or a curated PMP deal ID on Zenith's DSP. One rate covers data and media."
+        }
+      ],
+      "getsHead": "What Zenith gets",
+      "gets": [
+        "A net-new app signal for CoreAI audiences",
+        "Competitive wallet audiences Epsilon can't see",
+        "DoubleVerify on every impression",
+        "70% viewability guarantee",
+        "Lift read on the same graph we target"
+      ]
+    },
+    {
+      "type": "grid",
+      "title": "The test plan and partner checks",
+      "kicker": "$300K over eight weeks · Everything Zenith investment asks before a buy",
+      "source": "Rate from the Sabio rate card (Prime, standard video); CTV rate and added value tier to be confirmed before send.",
+      "cells": [
+        {
+          "head": "Budget and flight",
+          "body": "$300K, Nov 2 to Dec 27, 2026. Spend shifts to the best audience after week 3."
+        },
+        {
+          "head": "Rate and delivery",
+          "body": "$17.48 CPM, data and media in one rate [CONFIRM CTV rate]. About 17.2MM impressions."
+        },
+        {
+          "head": "Added value",
+          "body": "Advanced App Science® insights at $275K+: reach and frequency, app, TV and place affinities, audience verification."
+        },
+        {
+          "head": "Measurement",
+          "body": "Brand lift for PayPal and Venmo, exposed vs. control households, matched 1:1 on the App Science® graph."
+        },
+        {
+          "head": "Privacy and safety",
+          "body": "App ownership only, never balances or transactions. Aggregated reporting. DoubleVerify and a 70% viewability guarantee."
+        },
+        {
+          "head": "Supplier diversity",
+          "body": "Sabio is minority-owned, so this spend counts toward PayPal and Publicis supplier diversity goals."
+        }
+      ]
+    },
+    {
+      "type": "proof",
+      "title": "Proof from finance and retail",
+      "kicker": "Named, published Sabio case studies",
+      "source": "Sabio 2026 Master Case Study Deck.",
+      "stats": [
+        {
+          "value": "45%",
+          "label": "Wells Fargo brand awareness lift",
+          "context": "Small business conquest with its own app suppressed, and 15,000+ QR scans from CTV."
+        },
+        {
+          "value": "107%",
+          "label": "Above mobile VCR benchmark",
+          "context": "A national bank (anonymized), also 172% above the CTR benchmark."
+        },
+        {
+          "value": "181%",
+          "label": "Conair ROI in three weeks",
+          "context": "Shoppable CTV, OTT and mobile, with $522K in transfer value."
+        }
+      ],
+      "sideHead": "Why now",
+      "side": "PayPal has said it will put savings back into marketing, and holiday is the biggest checkout moment of the year.\n\nWe think the fastest win is the homes already paying with something else.\n\nThat said, the Venmo card offer is brand new, so we'd want to confirm which product leads before we size anything."
+    },
+    {
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three moves to be live by Nov 2",
+      "closer": "Happy to walk the team through it this week. Please LMK what else would help.",
+      "moves": [
+        {
+          "head": "Pick the product",
+          "body": "Zenith confirms which leads: checkout rewards, Pay Later, or the Venmo Credit Card.",
+          "owner": "Zenith · by Oct 23"
+        },
+        {
+          "head": "Size the audiences",
+          "body": "Sabio sizes the three audiences and returns reach and the app list behind each one.",
+          "owner": "Sabio · 48 hours after the brief"
+        },
+        {
+          "head": "Choose the route",
+          "body": "Direct IO, or a deal ID matched into CoreAI and Epsilon. Creative and QR specs locked.",
+          "owner": "Zenith investment · by Oct 30"
+        }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Oct 16, 2026",
+      "items": [
+        "PayPal Q2 2026 earnings call highlights, MarketBeat, Jul 28, 2026.",
+        "PayPal 2026 Holiday Shopping Survey, Sep 30, 2026.",
+        "PayPal Newsroom, The Venmo Credit Card Now Pays Up to 4% Cash Back When You Split with Friends, Oct 5, 2026.",
+        "Sabio 2026 Master Case Study Deck."
+      ]
+    }
+  ]
+}

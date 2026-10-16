@@ -1,0 +1,286 @@
+{
+  "client": "minds + assembly",
+  "fileTitle": "Sabio x minds + assembly: VYVGART and EPSOLAY on CTV (short version)",
+  "footer": "VYVGART and EPSOLAY, the short version",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Nine audiences, one move from display to CTV",
+      "subtitle": "The short version you asked for. The App Science® audiences for VYVGART® and EPSOLAY®, and the CTV inventory they run on.",
+      "meta": "Awareness strategy and $1MM CTV test | Prepared for minds + assembly | October 2026 | US only",
+      "names": "Michael Allen\nBen Bring · Helen Goldstein",
+      "stat": {
+        "label": "Streaming's share of Rx TV",
+        "value": "42%",
+        "unit": "of spend, Q3 2026",
+        "body": "Up from 32% in Q1. Rx TV budgets are moving to streaming this year, and the audiences can move with them. [2]"
+      }
+    },
+    {
+      "type": "opening",
+      "title": "Why start CTV with app audiences",
+      "kicker": "For clients buying mostly display today",
+      "stat": "+60%",
+      "statLabel": "VYVGART net sales growth in Q2 2026, to $1.52B. The label now covers every adult gMG serotype.",
+      "statSource": "Source 1 (argenx H1 2026 results, Jul 23, 2026)",
+      "headline": "We think the safest first step into CTV is the audience you can already see on the phone, now on the TV.",
+      "points": [
+        {
+          "head": "Same audience, bigger screen",
+          "body": "Each segment starts from apps opened on a phone in the last 30 days. We resolve the phone to the household and serve that home's TV."
+        },
+        {
+          "head": "Built per brand, never shared",
+          "body": "Three audiences each for gMG, CIDP and EPSOLAY. argenx and Galderma data, reporting and learnings stay separate."
+        },
+        {
+          "head": "Proved with a holdout",
+          "body": "10% of homes stay unexposed, so brand lift and Rx lift read cleanly for each brand."
+        }
+      ]
+    },
+    {
+      "type": "audiences",
+      "title": "VYVGART in gMG: three audiences",
+      "kicker": "Each one is an app ecosystem built for this brief · ~90K diagnosed US gMG patients",
+      "source": "Estimates; reconfirm before launch. From ~90K diagnosed US gMG patients (DelveInsight, 2025) on Sabio's 80MM-household graph, plus adjacent apps. App names are examples, not endorsements.",
+      "cards": [
+        {
+          "tag": "Prime",
+          "name": "The symptom tracker",
+          "desc": "Logs symptoms and sees a neurologist, often still on steroids.",
+          "apps": "MGFA myMG · myMGverse · Bearable · MyChart",
+          "goal": "Ask about VYVGART at the next visit",
+          "reach": "CTV ~350K homes"
+        },
+        {
+          "tag": "Prime",
+          "name": "The care partner",
+          "desc": "A spouse or adult child managing visits and medications.",
+          "apps": "CareZone · Caring Village · Medisafe · CVS",
+          "goal": "Self-injection gives families time back",
+          "reach": "CTV ~500K homes"
+        },
+        {
+          "tag": "Conquest",
+          "name": "The serotype newcomer",
+          "desc": "MuSK+, LRP4+ or seronegative, newly covered in 2026.",
+          "apps": "MG patient groups · rare disease communities · MyChart",
+          "goal": "A VYVGART option for every serotype",
+          "reach": "CTV ~150K homes"
+        }
+      ]
+    },
+    {
+      "type": "audiences",
+      "title": "VYVGART in CIDP: three audiences",
+      "kicker": "Each one is an app ecosystem built for this brief · ~60K US CIDP patients",
+      "source": "Estimates; reconfirm before launch. From ~60K US CIDP patients (GBS|CIDP Foundation) on Sabio's 80MM-household graph, plus adjacent apps. App names are examples, not endorsements.",
+      "cards": [
+        {
+          "tag": "Prime",
+          "name": "The IVIg-fatigued patient",
+          "desc": "On a three to four week IVIg cycle, at home or in clinic.",
+          "apps": "Option Care · CVS Specialty · Medisafe",
+          "goal": "A self-injection in place of the infusion chair",
+          "reach": "CTV ~250K homes"
+        },
+        {
+          "tag": "Prime",
+          "name": "The newly diagnosed",
+          "desc": "Researching numbness and weakness, often in their late 50s.",
+          "apps": "Neuropathy trackers · MyChart · GBS|CIDP community",
+          "goal": "Start the treatment conversation early",
+          "reach": "CTV ~300K homes"
+        },
+        {
+          "tag": "Prime",
+          "name": "The care partner",
+          "desc": "Drives to infusion visits and runs the calendar.",
+          "apps": "CareZone · Caring Village · Life360 · CVS",
+          "goal": "Treatment that fits around family life",
+          "reach": "CTV ~400K homes"
+        }
+      ]
+    },
+    {
+      "type": "audiences",
+      "title": "EPSOLAY in rosacea: three audiences",
+      "kicker": "The same method at scale · Only about 18% of 16MM Americans with rosacea are treated",
+      "source": "Estimates; reconfirm before launch. From 16MM Americans with rosacea, ~18% treated (National Rosacea Society), on Sabio's 80MM-household graph. App names are examples, not endorsements.",
+      "cards": [
+        {
+          "tag": "Prime",
+          "name": "The self-treater",
+          "desc": "Treats bumps and redness with OTC skin care. No dermatologist yet.",
+          "apps": "Skinsort · Yuka · Ulta Beauty · CVS",
+          "goal": "Bumps need a prescription",
+          "reach": "CTV ~5MM homes"
+        },
+        {
+          "tag": "Prime",
+          "name": "The trigger manager",
+          "desc": "Tracks sun, heat and diet triggers. Often women aged 45 to 60.",
+          "apps": "UV index apps · Bearable · MyFitnessPal · Skinsort",
+          "goal": "Gentle on sensitive skin",
+          "reach": "CTV ~4MM homes"
+        },
+        {
+          "tag": "Conquest",
+          "name": "The topical switcher",
+          "desc": "On a prescription rosacea topical and still breaking out.",
+          "apps": "Curology · Musely · GoodRx · CVS / Walgreens Rx",
+          "goal": "Up to 70% fewer bumps in 12 weeks",
+          "reach": "CTV ~1.5MM homes"
+        }
+      ]
+    },
+    {
+      "type": "reach",
+      "title": "Nine audiences build to about 12.5MM homes",
+      "kicker": "Unique CTV households as each audience is added · Deduplicated · Illustrative until the build",
+      "source": "Bars show incremental, deduplicated households. Final sizes are confirmed at the build [CONFIRM].",
+      "bars": [
+        {
+          "label": "Trackers",
+          "value": 0.35
+        },
+        {
+          "label": "gMG care",
+          "value": 0.5
+        },
+        {
+          "label": "Serotype",
+          "value": 0.15
+        },
+        {
+          "label": "IVIg",
+          "value": 0.25
+        },
+        {
+          "label": "New dx",
+          "value": 0.3
+        },
+        {
+          "label": "CIDP care",
+          "value": 0.4
+        },
+        {
+          "label": "Self-treat",
+          "value": 5
+        },
+        {
+          "label": "Triggers",
+          "value": 4
+        },
+        {
+          "label": "Switchers",
+          "value": 1.5
+        }
+      ],
+      "total": "12.5MM",
+      "totalLabel": "Unique CTV households across nine audiences",
+      "body": "The $1MM test reaches about 9MM of them at an average frequency of about 6.\n\nVYVGART adds about 2MM precise homes. EPSOLAY adds the scale.",
+      "format": "\"+\"0.0#",
+      "labelSize": 8
+    },
+    {
+      "type": "activation",
+      "title": "The CTV inventory we'd serve on",
+      "kicker": "Platform-agnostic CTV, plus our own channel · Your lists, our controls",
+      "source": "Creator TV distribution from Sabio's Q4 2026 overview. The full publisher list is shared at the build and cleared with each brand's MLR team [CONFIRM].",
+      "channels": [
+        {
+          "head": "Premium streaming",
+          "body": "Every major CTV platform, box and stick. We add your approved publishers and block the ones you already buy, so reach stays incremental."
+        },
+        {
+          "head": "Creator TV®",
+          "body": "Sabio's own channel: 88MM households can watch it on VIZIO WatchFree+, TCLtv+, Xumo Play, Sling Freestream, Fire TV Channels, Plex and LiveTVx."
+        },
+        {
+          "head": "Health-safe supply",
+          "body": "Category blocklists for each brand. DoubleVerify on every impression and a 70% viewability guarantee."
+        },
+        {
+          "head": "Mobile follow-through",
+          "body": "The same CTV-exposed homes on their phones, pointing to vyvgart.com or epsolay.com and the doctor discussion guide."
+        }
+      ],
+      "getsHead": "Inventory controls",
+      "gets": [
+        "Your approved publisher list, honored",
+        "Publishers you already buy, blocked",
+        "Frequency capped per household and brand",
+        "95%+ CTV completion benchmark",
+        "Separate delivery reports for argenx and Galderma"
+      ]
+    },
+    {
+      "type": "grid",
+      "title": "The $1MM test and the guardrails",
+      "kicker": "Eight weeks live · $600K VYVGART, $400K EPSOLAY",
+      "source": "Rx lift partner to be confirmed with argenx and Galderma; claims data stays de-identified. Sabio CTV privacy FAQ, 2026.",
+      "cells": [
+        {
+          "head": "Budget by brand",
+          "body": "VYVGART $350K gMG and $250K CIDP. EPSOLAY $400K. Budgets never move between brands without client approval."
+        },
+        {
+          "head": "Channel mix",
+          "body": "CTV 59% ($590K), mobile 29% ($290K), Creator TV® 12% ($120K)."
+        },
+        {
+          "head": "Measurement",
+          "body": "Brand lift for awareness and new-to-brand Rx lift, each read by brand against a 10% unexposed holdout."
+        },
+        {
+          "head": "What we observe",
+          "body": "Which apps are on a device and when they were used. Never what a person types, logs or reads inside an app."
+        },
+        {
+          "head": "Health data",
+          "body": "App ownership is a behavior signal. We don't infer a diagnosis, and copy never implies we know one."
+        },
+        {
+          "head": "What leaves Sabio",
+          "body": "No raw device IDs. Reporting is aggregated by audience and kept separate for each client."
+        }
+      ]
+    },
+    {
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three steps to a live test",
+      "closer": "Happy to keep trimming. If one brand is the better first conversation with your clients, we'll lead with that one.",
+      "moves": [
+        {
+          "head": "Pick the lead brand",
+          "body": "minds + assembly chooses whether VYVGART, EPSOLAY or both go to clients first.",
+          "owner": "Michael Allen · when we meet"
+        },
+        {
+          "head": "Size and list inventory",
+          "body": "Sabio returns final audience sizes and the publisher list for that brand.",
+          "owner": "Sabio · within a week"
+        },
+        {
+          "head": "Lock the test",
+          "body": "Start date, budget split and the Rx lift partner agreed with the client.",
+          "owner": "minds + assembly and Sabio"
+        }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Oct 16, 2026",
+      "items": [
+        "argenx half year 2026 results and Q2 business update, Jul 23, 2026, via BioSpace.",
+        "EMARKETER, Pharma Rx TV ad spending and streaming share, iSpot.tv data, Oct 9, 2026.",
+        "National Rosacea Society; Baylor College of Medicine (as cited in the 10.15 Sabio plan).",
+        "DelveInsight, 2025 (US gMG prevalence); GBS|CIDP Foundation International.",
+        "Sabio Q4 2026 Overview (Creator TV distribution); Sabio CTV privacy FAQ, 2026."
+      ]
+    }
+  ]
+}

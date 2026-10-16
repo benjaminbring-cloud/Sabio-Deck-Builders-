@@ -1,0 +1,181 @@
+{
+  "client": "HP",
+  "fileTitle": "Sabio x HP: Fewer PC Buyers, Paying More",
+  "footer": "Proactive point of view for Zenith",
+  "slides": [
+    {
+      "type": "cover",
+      "title": "Fewer PC buyers, paying more. Find them first.",
+      "subtitle": "Consumer PC units are falling while prices rise. App Science® finds the households actually ready to buy a new PC this holiday, by the apps they use, and reaches them on the TV in the room.",
+      "meta": "Proactive recommendation | Prepared for Zenith | October 2026 | US only",
+      "names": "Will Phung · Amanda Grond · Stamos Biliris\nBen Bring · Isabella Imbriano",
+      "stat": {
+        "label": "Consumer PC units, Q3 FY26",
+        "value": "-19%",
+        "unit": "Year over year",
+        "body": "Consumer Personal Systems revenue still grew 10% on price and mix. Each holiday buyer is worth more, and there are fewer of them. [1]"
+      }
+    },
+    {
+      "type": "news",
+      "title": "What's happening at HP right now",
+      "kicker": "Four signals from the last eight months · Numbered sources on page 10",
+      "items": [
+        {
+          "date": "Aug 27, 2026",
+          "head": "Record Q3 for Personal Systems at $11.77B",
+          "body": "Total revenue grew 12.5% to $15.68B. Personal Systems grew 18.5%, a Q3 record, on pricing and a richer premium mix. [1]",
+          "means": "Premium PCs are carrying the business. Media should sell premium."
+        },
+        {
+          "date": "Aug 27, 2026",
+          "head": "AI PCs reached 46% of shipments",
+          "body": "HP targets 50% by the end of fiscal 2026. Consumer units fell 19% while consumer revenue rose 10%. [1]",
+          "means": "The AI PC story needs buyers who will use it. Apps show who they are."
+        },
+        {
+          "date": "Feb 25, 2026",
+          "head": "Memory now 35% of what a PC costs to build",
+          "body": "Up from 15% to 18% a quarter earlier. HP expected the PC market to shrink by double digits in 2026. [2]",
+          "means": "Prices stay high this holiday, so wasted impressions cost more than usual."
+        },
+        {
+          "date": "Sep 10, 2026",
+          "head": "Holiday e-commerce to grow 7.5% to 8.4%",
+          "body": "Deloitte expects total holiday sales of $1.70T to $1.71T, up 4.0% to 4.8%. [3]",
+          "means": "Buyers are out there, but HP has to win them earlier and more precisely."
+        }
+      ]
+    },
+    {
+      "type": "opening",
+      "title": "The opening: find the ready buyer",
+      "kicker": "Why HP's holiday media should chase intent, not age and income",
+      "stat": "49%",
+      "statLabel": "Share of US TV time spent on streaming in July 2026. Broadcast was 19.5%.",
+      "statSource": "Source 4 (Nielsen, The Gauge, July 2026)",
+      "headline": "We think HP's holiday is won by reaching the homes whose apps show they need more computer, not the homes that fit a demo.",
+      "points": [
+        {
+          "head": "The apps show the need",
+          "body": "Video editing, design, PC gaming and school apps are heavy workloads. A home running them is closer to an upgrade."
+        },
+        {
+          "head": "The rivals show the shopping",
+          "body": "Dell, Lenovo and Best Buy apps opened this month mean someone is comparing. That's a home to win now."
+        },
+        {
+          "head": "The TV starts the gift",
+          "body": "Half of TV time is streaming. We put HP there, then follow the same home to the phone and the retailer."
+        }
+      ]
+    },
+    {
+      "type": "glance",
+      "title": "Sabio at a glance",
+      "kicker": "Our own data, ad tech and content since 2014 · A Publicis partner for 9+ years",
+      "takeaway": "the creator, gamer and comparison-shopper homes ready for a new PC, found by the apps they use and reached on 115MM CTV households."
+    },
+    {
+      "type": "audiences",
+      "title": "Three audiences for the holiday PC buyer",
+      "kicker": "Each one is an app ecosystem, not a demographic · Sized on the final build",
+      "source": "HP's own apps (HP Smart, OMEN Gaming Hub) can be used to reinforce owners or suppress them for net-new reach. App lists finalized with HP and Zenith.",
+      "cards": [
+        {
+          "tag": "Prime",
+          "name": "The creator and student",
+          "desc": "Edits video, designs and studies on a laptop. Feels the limits of an older machine.",
+          "apps": "CapCut · Canva · Adobe Express · Microsoft 365 · Canvas Student",
+          "goal": "Upgrade to an HP AI PC built for the work",
+          "reach": "Sized at build [CONFIRM]"
+        },
+        {
+          "tag": "Conquest",
+          "name": "The comparison shopper",
+          "desc": "Opened a rival PC brand or electronics retailer app in the last 30 days.",
+          "apps": "Dell · Lenovo Vantage · Best Buy · Micro Center · Newegg",
+          "goal": "Pick HP before the comparison ends",
+          "reach": "Sized at build [CONFIRM]"
+        },
+        {
+          "tag": "Prove",
+          "name": "The PC gamer",
+          "desc": "Plays on PC every week and follows new releases on the phone.",
+          "apps": "Steam · Discord · Xbox · NVIDIA app · Twitch",
+          "goal": "Make OMEN the holiday gaming gift",
+          "reach": "Sized at build [CONFIRM]"
+        }
+      ]
+    },
+    {
+      "type": "activation",
+      "title": "How it runs, and how Zenith buys it",
+      "kicker": "One audience across CTV, mobile and Creator TV · Plugs into Publicis CoreAI and Epsilon",
+      "source": "Publicis route: App Science® segments onboarded to the Epsilon identity spine or packaged as a curated deal ID for the trading desk [CONFIRM with Zenith investment].",
+      "channels": [
+        { "head": "CTV · 60%", "body": "$180K. Holiday spots for AI PCs and OMEN, with a QR to HP.com or the nearest retailer." },
+        { "head": "Mobile video · 30%", "body": "$90K. The same CTV-exposed homes on their phones, with product and retailer links." },
+        { "head": "Creator TV® · 10%", "body": "$30K. Creators show what they make on an HP PC, inside shows on Sabio's own channel." },
+        { "head": "Ways to buy", "body": "Direct IO managed by Sabio, or a curated PMP deal ID on Zenith's DSP. One rate covers data and media." }
+      ],
+      "getsHead": "What Zenith gets",
+      "gets": [
+        "A net-new app signal for CoreAI audiences",
+        "Rival brand app audiences, refreshed daily",
+        "DoubleVerify on every impression",
+        "70% viewability guarantee",
+        "Lift and site visits read on the same graph"
+      ]
+    },
+    {
+      "type": "grid",
+      "title": "The test plan and partner checks",
+      "kicker": "$300K over eight weeks · Everything Zenith investment asks before a buy",
+      "source": "Rate from the Sabio rate card (Prime, standard video); CTV rate and added value tier to be confirmed before send.",
+      "cells": [
+        { "head": "Budget and flight", "body": "$300K, Nov 2 to Dec 27, 2026. Spend shifts to the best audience after week 3." },
+        { "head": "Rate and delivery", "body": "$17.48 CPM, data and media in one rate [CONFIRM CTV rate]. About 17.2MM impressions." },
+        { "head": "Added value", "body": "Advanced App Science® insights at $275K+: reach and frequency, app, TV and place affinities, audience verification." },
+        { "head": "Measurement", "body": "Brand lift and HP.com visits, exposed vs. control households, matched 1:1 on the App Science® graph." },
+        { "head": "Privacy and safety", "body": "App ownership only, never in-app behavior. Aggregated reporting. DoubleVerify and a 70% viewability guarantee." },
+        { "head": "Supplier diversity", "body": "Sabio is minority-owned, so this spend counts toward HP and Publicis supplier diversity goals." }
+      ]
+    },
+    {
+      "type": "proof",
+      "title": "Proof from tech, gaming and retail",
+      "kicker": "Named, published Sabio case studies",
+      "source": "Sabio 2026 Master Case Study Deck.",
+      "stats": [
+        { "value": "99%", "label": "Amazon cloud gaming VCR", "context": "A CTV-only launch, with $645K in added-value impressions." },
+        { "value": "+759%", "label": "Volvo full-year investment growth", "context": "Cross-screen, 90%+ VCR across six models, then a full-year commitment." },
+        { "value": "181%", "label": "Conair ROI in three weeks", "context": "Shoppable CTV, OTT and mobile, with $522K in transfer value." }
+      ],
+      "sideHead": "Why now",
+      "side": "HP is selling fewer PCs at higher prices, and holiday is when consumers buy.\n\nWe think the answer is fewer, better impressions, aimed at homes whose apps show they need a new machine.\n\nThat said, product focus matters here. We'd want to know which lines lead before we size anything."
+    },
+    {
+      "type": "moves",
+      "title": "Where we go next",
+      "kicker": "Three moves to be live by Nov 2",
+      "closer": "Happy to walk the team through it this week. Please LMK what else would help.",
+      "moves": [
+        { "head": "Pick the products", "body": "Zenith confirms which HP lines lead holiday: AI PCs, OMEN, or both.", "owner": "Zenith · by Oct 23" },
+        { "head": "Size the audiences", "body": "Sabio sizes the three audiences and returns reach and the app list behind each one.", "owner": "Sabio · 48 hours after the brief" },
+        { "head": "Choose the route", "body": "Direct IO, or a deal ID matched into CoreAI and Epsilon. Creative and QR specs locked.", "owner": "Zenith investment · by Oct 30" }
+      ]
+    },
+    {
+      "type": "sources",
+      "retrieved": "Oct 16, 2026",
+      "items": [
+        "HP Q3 FY2026 results, via Zacks, Aug 27, 2026.",
+        "HP Q1 FY2026 earnings call, via 3DTested, Feb 25, 2026.",
+        "Deloitte 2026 holiday retail forecast, via Chain Store Age, Sep 10, 2026.",
+        "Nielsen, The Gauge, July 2026 (released Sep 10, 2026).",
+        "Sabio 2026 Master Case Study Deck."
+      ]
+    }
+  ]
+}
